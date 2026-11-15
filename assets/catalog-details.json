@@ -1,0 +1,415 @@
+{
+  "KDN_TRUK": {
+    "nama_form": "Truk 6 ban bak kayu/besi",
+    "default": null,
+    "variants": {
+      "Mitsubishi Fuso FE 74 N Bak Besi": "Type: Mitsubishi Fuso FE 74 N\n[A. Bak Kayu · Dimensi Luar]\nPanjang Luar: 4.250 mm\nLebar Luar: 2.070 mm\nTinggi Dalam: 1.200 mm\nTinggi Pintu Belakang: 700 mm\n[A. Bak Kayu · Konstruksi]\nLong Member: UNP 100\nCross Member: UNP 80\nSlide Frame: UNP 100\nLantai: Kayu Merbau tebal 20 mm\nDinding Samping Kiri/Kanan: Kayu Merbau tebal 20 mm\nTulang Vertikal Samping: UNP 120 / UNP 100 / UNP 80\nTulang Horizontal Samping: UNP 100\nDinding Depan: Kayu Merbau tebal 20 mm\nPintu Belakang: Kayu Merbau tebal 20 mm\nTulang Pintu Belakang: UNP 80 / UNP 65\nAbsorber: Wood\n[B. Bak Besi · Dimensi Luar]\nPanjang Luar: 4.585 mm\nLebar Luar: 2.070 mm\nTinggi Dalam: 1.200 mm\nTinggi Pintu Belakang: 700 mm\n[B. Bak Besi · Konstruksi]\nLong Member: UNP 100\nCross Member: UNP 80\nSlide Frame: UNP 100\nLantai: SPHC 3.0 MM\nDinding Samping Kiri/Kanan: SPHC 2.0 MM\nTulang Vertikal Samping: UNP 120 / UNP 100 / UNP 80\nTulang Horizontal Samping: UNP 100\nDinding Depan: SPHC 3.0 MM\nPintu Belakang: SPHC 2.0 MM\nTulang Pintu Belakang: UNP 80 / UNP 65\nAbsorber: Wood",
+      "Mitsubishi Fuso FE 74 HDS N Bak Kayu": "Type: Mitsubishi Fuso FE 74 HDS N\n[A. Bak Kayu · Dimensi Luar]\nPanjang Luar: 4.250 mm\nLebar Luar: 2.070 mm\nTinggi Dalam: 1.200 mm\nTinggi Pintu Belakang: 700 mm\n[A. Bak Kayu · Konstruksi]\nLong Member: UNP 100\nCross Member: UNP 80\nSlide Frame: UNP 100\nLantai: Kayu Merbau tebal 20 mm\nDinding Samping Kiri/Kanan: Kayu Merbau tebal 20 mm\nTulang Vertikal Samping: UNP 120 / UNP 100 / UNP 80\nTulang Horizontal Samping: UNP 100\nDinding Depan: Kayu Merbau tebal 20 mm\nPintu Belakang: Kayu Merbau tebal 20 mm\nTulang Pintu Belakang: UNP 80 / UNP 65\nAbsorber: Wood\n[B. Bak Besi · Dimensi Luar]\nPanjang Luar: 4.585 mm\nLebar Luar: 2.070 mm\nTinggi Dalam: 1.200 mm\nTinggi Pintu Belakang: 700 mm\n[B. Bak Besi · Konstruksi]\nLong Member: UNP 100\nCross Member: UNP 80\nSlide Frame: UNP 100\nLantai: SPHC 3.0 MM\nDinding Samping Kiri/Kanan: SPHC 2.0 MM\nTulang Vertikal Samping: UNP 120 / UNP 100 / UNP 80\nTulang Horizontal Samping: UNP 100\nDinding Depan: SPHC 3.0 MM\nPintu Belakang: SPHC 2.0 MM\nTulang Pintu Belakang: UNP 80 / UNP 65\nAbsorber: Wood",
+      "Mitsubishi Fuso FE 74 HD N Bak Besi": "Type: Mitsubishi Fuso FE 74 HD N\n[A. Bak Kayu · Dimensi Luar]\nPanjang Luar: 4.250 mm\nLebar Luar: 2.070 mm\nTinggi Dalam: 1.200 mm\nTinggi Pintu Belakang: 700 mm\n[A. Bak Kayu · Konstruksi]\nLong Member: UNP 100\nCross Member: UNP 80\nSlide Frame: UNP 100\nLantai: Kayu Merbau tebal 20 mm\nDinding Samping Kiri/Kanan: Kayu Merbau tebal 20 mm\nTulang Vertikal Samping: UNP 120 / UNP 100 / UNP 80\nTulang Horizontal Samping: UNP 100\nDinding Depan: Kayu Merbau tebal 20 mm\nPintu Belakang: Kayu Merbau tebal 20 mm\nTulang Pintu Belakang: UNP 80 / UNP 65\nAbsorber: Wood\n[B. Bak Besi · Dimensi Luar]\nPanjang Luar: 4.585 mm\nLebar Luar: 2.070 mm\nTinggi Dalam: 1.200 mm\nTinggi Pintu Belakang: 700 mm\n[B. Bak Besi · Konstruksi]\nLong Member: UNP 100\nCross Member: UNP 80\nSlide Frame: UNP 100\nLantai: SPHC 3.0 MM\nDinding Samping Kiri/Kanan: SPHC 2.0 MM\nTulang Vertikal Samping: UNP 120 / UNP 100 / UNP 80\nTulang Horizontal Samping: UNP 100\nDinding Depan: SPHC 3.0 MM\nPintu Belakang: SPHC 2.0 MM\nTulang Pintu Belakang: UNP 80 / UNP 65\nAbsorber: Wood",
+      "Hino 136 HDL": "Type: Hino 136 HDL\n[Kemampuan / Performance]\nKecepatan Maks. / Max. Speed (km/h): 99\nKekuatan Tanjakan / Gradeability (tan %): 53.5\n[B. Mesin / Engine]\nModel / Series: N04C-W\nTipe / Type: Mesin Diesel 4 Langkah Segaris, Variable Nozzle Turbocharger, Intercooler, Common Rail\nEmisi / Emission: Euro IV\nSistem Kontrol Emisi / Emission Control System: EGR + DOC\nTenaga Maks. / Max. Power (PS/rpm): 136 / 2.500\nTorsi Maks. / Max. Torque (Kgm/rpm): 40 / 1.400-2.500\nJumlah Silinder / No. of Cylinders: 4\nDiameter x Langkah / Bore x Stroke (mm): 104x118\nIsi Silinder / Piston Displacement (cc): 4.009\n[C. Kopling / Clutch]\nTipe / Type: Pelat Kering Tunggal, Hydraulic Operation\nDiameter / Diameter (mm): 300\n[D. Transmisi / Transmission]\nTipe / Type: RE50\nPerbandingan Gigi / Gear Ratio - 1st: 5.342\nPerbandingan Gigi / Gear Ratio - 2nd: 2.975\nPerbandingan Gigi / Gear Ratio - 3rd: 1.604\nPerbandingan Gigi / Gear Ratio - 4th: 1.000\nPerbandingan Gigi / Gear Ratio - 5th: 0.712\nPerbandingan Gigi / Gear Ratio - Mundur (Reverse): 4.970\n[E. Kemudi / Steering]\nTipe / Type: Power Steering (Recirculating Ball Screw)\nRadius / Min. Turning Radius (m): 7.9\n[F. Sumbu / Axle]\nDepan / Front: Reverse Elliot, I-Section Beam\nBelakang / Rear: Full-floating, Single Reduction, Single speed by Hypoid Gearings\nPerbandingan Gigi Akhir / Final Gear Ratio: 5.428\n[G. Rem / Brakes]\nRem Utama / Main Brake: Vacuum Servo dengan sirkuit ganda, dilengkapi dengan Booster\nRem Pelambat / Exhaust Brake: Terletak pada Pipa Gas Buang\nRem Parkir / Parking Brake: Internal Expanding pada Output Shaft Transmission\n[H. Roda & Ban / Wheel & Tire]\nUkuran Ban / Tire Size: 7.50-16-14PR\nUkuran Rim / Wheel Disc Size: 16 x 6.00GS-127\nJumlah Ban (Cadangan) / No. of Tires (+ Spare Tire): 6 (+1)\n[Sistem Listrik / Electrical System]\nBattere / Accu (V-Ah): 12V-100Ah x 1\n[Tangki Bahan Bakar / Fuel Tank]\nKapasitas / Capacity (L): 100\n[Dimensi / Dimensions]\nJarak Sumbu Roda / Wheel Base - WB (mm): 4.000\nTotal / Overall - Panjang / Length - OL (mm): 7.185\nTotal / Overall - Lebar / Width - OW (mm): 1.945\nTotal / Overall - Tinggi / Height - OH (mm): 2.154\nLebar Jejak / Tread - Depan / Front - FR Tr (mm): 1.455\nLebar Jejak / Tread - Belakang / Rear - RR Tr (mm): 1.480\nJulur / Overhang - Depan / Front - FOH (mm): 1.066\nJulur / Overhang - Belakang / Rear - ROH (mm): 2.120\nJarak Kabin ke Sumbu Roda Belakang / Cab Back to Rear Axle - CA (mm): 2.900\n[Suspensi / Suspension]\nDepan / Front: Rigid Axle dengan Pegas Daun Semi Elliptic\nBelakang / Rear: Rigid Axle dengan Pegas Daun Semi Elliptic\n[Berat Chassis / Chassis Weight]\nTotal Berat Kosong / Overall Weight (Kg): 2.400\nGross Vehicle Weight Rating (GVWR) (Kg): 8.600",
+      "Hino 136 HD": "Type: Hino 136 HD\n[Kemampuan / Performance]\nKecepatan Maks. / Max. Speed (km/h): 98/92\nKekuatan Tanjakan / Gradeability (tan %): 42.9/46.2\n[B. Mesin / Engine]\nModel / Series: N04C-WY\nTipe / Type: Mesin Diesel 4 Langkah Segaris; Variable Nozzle Turbocharger; Intercooler; Common Rail\nEmisi / Emission: Euro IV\nSistem Kontrol Emisi / Emission Control System: EGR + DOC\nTenaga Maks. / Max. Power (PS/rpm): 136 / 2.500\nTorsi Maks. / Max. Torque (Kgm/rpm): 40/1.400-2.500\nJumlah Silinder / No. of Cylinders: 4\nDiameter x Langkah / Bore x Stroke (mm): 104x118\nIsi Silinder / Piston Displacement (cc): 4.009\n[C. Kopling / Clutch]\nTipe / Type: Pelat Kering Tunggal, Hydraulic Operation\nDiameter / Diameter (mm): 300\n[D. Transmisi / Transmission]\nTipe / Type: RE50\nPerbandingan Gigi / Gear Ratio - 1st: 5.342\nPerbandingan Gigi / Gear Ratio - 2nd: 2.975\nPerbandingan Gigi / Gear Ratio - 3rd: 1.604\nPerbandingan Gigi / Gear Ratio - 4th: 1.000\nPerbandingan Gigi / Gear Ratio - 5th: 0.712\nPerbandingan Gigi / Gear Ratio - Mundur (Reverse): 4.970\n[E. Kemudi / Steering]\nTipe / Type: Power Steering (Recirculating Ball Screw)\nRadius / Min. Turning Radius (m): 6.8\n[F. Sumbu / Axle]\nDepan / Front: Reverse Elliot, I-Section Beam\nBelakang / Rear: Full-floating, Single Reduction, Single speed by Hypoid Gearings\nPerbandingan Gigi Akhir / Final Gear Ratio: 6.428 / 6.833\n[G. Rem / Brakes]\nRem Utama / Main Brake: Vacuum Servo dengan sirkuit ganda, dilengkapi dengan Booster\nRem Pelambat / Exhaust Brake: Terletak pada Pipa Gas Buang\nRem Parkir / Parking Brake: Internal Expanding pada Output Shaft Transmission\n[H. Roda & Ban / Wheel & Tire]\nUkuran Ban / Tire Size: 7.50-16-14PR\nUkuran Rim / Wheel Disc Size: 16 x 6.00GS-127\nJumlah Ban (+Cadangan) / No. of Tires (+ Spare Tire): 6 (+1)\n[Sistem Listrik / Electrical System]\nBattere / Accu (V-Ah): 12V-100Ah x 1",
+      "Foton Aumark S": "Type: Foton Aumark S\nModel: BJ1088VEJEA-FR\nEngine: Cummins ISF3.8s4R154\nType: Diesel, Turbocharged, Intercooled, Four-Stroke\nCylinders: 4 In-Line\nDisplacement: 3.76L\nMax Output: 154 PS (115 kW) @ 2,600 rpm\nMax Torque: 500 N-m @ 1,200–1,900 rpm\nEmission: Euro 4\nFuel Injection: ECU Controlled High Pressure Common Rail (Bosch)\nTransmission: ZF6S508T0, 6-Speed Manual\nGear Ratios: 1st 6.198; 2nd 3.287; 3rd 2.025; 4th 1.371; 5th 1.000; 6th 0.780; Reverse 5.681; Final 4.333\nGW: 8,250 kg\nCurb Weight: 2,995 kg\nFuel Tank: 200L\nFront Axle: Reversed Elliot I-Beam (4,000 kg)\nRear Axle: Banjo Type Full Floating (6,500 kg)\nFront Suspension: 8-Leaf Spring + Hydraulic Double Acting Shock Absorber\nRear Suspension: 8+6 Leaf Spring + Hydraulic Double Acting Shock Absorber\nTyres: 7.50R16\nWheels: 16 x 6.00\nService Brake: Air Braking Dual Circuit with ABS\nParking Brake: Pneumatic Controlled Spring Brake\nAuxiliary Brake: Exhaust Brake\nSteering: Hydraulic Power Assisted\nTurning Radius: 6.7m\nBattery: 24V 100AH (2 pcs)\nWheelbase: 3,360 mm\nLength: 5,960 mm\nWidth: 2,030 mm\nHeight: 2,260 mm\nFront Overhang: 1,110 mm\nRear Overhang: 1,420 mm\nFront Tread: 1,590 mm\nRear Tread: 1,534 mm",
+      "Isuzu NMR HD 5.8": "Type: Isuzu NMR HD 5.8\n[Dimensi]\nPanjang / Overall Length (OAL) (mm): 6,000\nLebar / Overall Width (OW) (mm): 1,990\nTinggi / Overall Height (OH) (mm): 2,345\nJarak Sumbu / Wheelbase (WB) (mm): 3,360\nJulur Depan / Front Overhang (FOH) (mm): 1,110\nJulur Belakang / Rear Overhang (ROH) (mm): 1,530\nJarak Terendah ke Tanah / Minimum Clearance (HH) (mm): 200\nJejak Depan / Front Tread (AW) (mm): 1,475\nJejak Belakang / Rear Tread (CW) (mm): 1,495\nCabin to End (CE) (mm): 4,395\n[Mesin]\nModel: 4HL1-TCS\nTipe / Type: Direct Injection, Commonrail, SOHC, 4 Cylinder, VGS Turbo Intercooler\nSistem Kontrol Emisi: EURO4 with EGR & DOC\nDiameter x Langkah / Bore x Stroke (mm): 115x115\nIsi Silinder / Piston Displacement (cc): 4,778\nTenaga Maksimum / Maximum Power (PS/rpm): 150 / 2,600\nTorsi Maksimum / Maximum Torque (Kgm/rpm): 41/1,400 - 2,600\n[Transmisi]\nModel: MYY6S\nPerbandingan Gigi / Gear Ratio - 1st: 5.979\nPerbandingan Gigi / Gear Ratio - 2nd: 3.434\nPerbandingan Gigi / Gear Ratio - 3rd: 1.862\nPerbandingan Gigi / Gear Ratio - 4th: 1.297\nPerbandingan Gigi / Gear Ratio - 5th: 1.000\nPerbandingan Gigi / Gear Ratio - 6th: 0.759\nPerbandingan Gigi / Gear Ratio - Rev: 5.701\n[Berat]\nBerat Kosong Kendaraan / Curb Weight (kg): 2,570\nBerat Total Kendaraan / Gross Vehicle Weight [GVW] (kg): 8,250\nKapasitas Gardan Depan / Capacity Front Axle (kg): 2,710\nKapasitas Gardan Belakang / Capacity Rear Axle (kg): 5,540\n[Brake]\nTipe / Type: Hydraulic\nRem Kaki / Service Brake: Hydraulic, saluran ganda dengan vacuum booster\nRem Tangan / Hand Brake: Expanding pada transmisi belakang\nSistem Pengereman Gas Buang / Exhaust Brake: Exhaust brake, tuas berada di stir\n[Tyre]\nUkuran Ban: 7.50-16-14PR\nUkuran Velg: 16 x 6.00\n[Suspensi]\nTipe: Semi elliptical laminated leaf spring dengan shock absorber berdaya ganda",
+      "Isuzu NMR HD 6.5": "Type: Isuzu NMR HD 6.5\n[Dimensi]\nPanjang / Overall Length (OAL) (mm): 6,000\nLebar / Overall Width (OW) (mm): 1,990\nTinggi / Overall Height (OH) (mm): 2,345\nJarak Sumbu / Wheelbase (WB) (mm): 3,360\nJulur Depan / Front Overhang (FOH) (mm): 1,110\nJulur Belakang / Rear Overhang (ROH) (mm): 1,530\nJarak Terendah ke Tanah / Minimum Clearance (HH) (mm): 200\nJejak Depan / Front Tread (AW) (mm): 1,475\nJejak Belakang / Rear Tread (CW) (mm): 1,495\nCabin to End (CE) (mm): 4,395\n[Mesin]\nModel: 4HL1-TCS\nTipe / Type: Direct Injection, Commonrail, SOHC, 4 Cylinder, VGS Turbo Intercooler\nSistem Kontrol Emisi: EURO4 with EGR & DOC\nDiameter x Langkah / Bore x Stroke (mm): 115x115\nIsi Silinder / Piston Displacement (cc): 4,778\nTenaga Maksimum / Maximum Power (PS/rpm): 150 / 2,600\nTorsi Maksimum / Maximum Torque (Kgm/rpm): 41/1,400 - 2,600\n[Transmisi]\nModel: MYY6S\nPerbandingan Gigi / Gear Ratio - 1st: 5.979\nPerbandingan Gigi / Gear Ratio - 2nd: 3.434\nPerbandingan Gigi / Gear Ratio - 3rd: 1.862\nPerbandingan Gigi / Gear Ratio - 4th: 1.297\nPerbandingan Gigi / Gear Ratio - 5th: 1.000\nPerbandingan Gigi / Gear Ratio - 6th: 0.759\nPerbandingan Gigi / Gear Ratio - Rev: 5.701\nPerbandingan Gigi Terakhir / Final Gear Ratio: 6.500\nPerbandingan Gigi Terakhir / Final Gear Ratio: 5.857\n[Berat]\nBerat Kosong Kendaraan / Curb Weight (kg): 2,570\nBerat Total Kendaraan / Gross Vehicle Weight [GVW] (kg): 8,250\nKapasitas Gardan Depan / Capacity Front Axle (kg): 2,710\nKapasitas Gardan Belakang / Capacity Rear Axle (kg): 5,540\n[Brake]\nTipe / Type: Hydraulic\nRem Kaki / Service Brake: Hydraulic, saluran ganda dengan vacuum booster\nRem Tangan / Hand Brake: Expanding pada transmisi belakang\nSistem Pengereman Gas Buang / Exhaust Brake: Exhaust brake, tuas berada di stir\n[Tyre]\nUkuran Ban: 7.50-16-14PR\nUkuran Velg: 16 x 6.00\n[Suspensi]\nTipe: Semi elliptical laminated leaf spring dengan shock absorber berdaya ganda",
+      "Tata Ultra T.7": "Type: Tata Ultra T.7\n[A. Spesifikasi Sasis Utama (General)]\nModel Kendaraan: Tata ULTRA T.7 Euro 4\nMesin / Engine Description: 3.3L NG D, Euro 4, 3,300 cc\nTenaga Maksimum: 155 PS @ 2,600 rpm\nTorsi Maksimum: 450 Nm @ 1,500 - 2,200 rpm\nKelistrikan / Alternator: Aki 2x12V, 100 Ah / Alternator 24V\nKopling & Transmisi: Single plate dry friction type (330 mm dia) / Tata G-550, 6F+1R Manual\nSistem Kemudi / Rem: Integral Hydraulic Power Steering / Dual Circuit Full Air S-Cam brakes with ABS\nSistem Suspensi: Parabolic leaf spring (Depan) & Semi-elliptical (Belakang)\nUkuran Ban / Roda: 215/75 R17.5\nKapasitas Tangki BBM: 90 Litres\nDimensi Sasis (WB / OAL / OW): Wheelbase: 3,550 mm / Panjang: 6,440 mm / Lebar: 2,050 mm\nMaks. Permissible GVW: 7,490 kg\nPerforma (Gradeability / Max Speed): 45% / 105 kmph (Turning radius 6.5 m)\nFasilitas Kabin: Air Conditioning (HVAC), Seating: Driver + 2, Body Type: HDLB\n[B. Spesifikasi Material Karoseri (Bak Besi)]\nLong Member: Tube-122 * 61 * 2.2 mm\nCross Member: Tube-92 * 46 * 2.2 mm\nFloor Sheet (Lantai Bak): Corrugated 1.4 mm (Material: HSLA340)\nSide Panel Sheet (Dinding Samping): 1 mm (Material: HSLA340)\nTail Panel Sheet (Dinding Belakang): Corrugated Sheet 1.2 mm (Material: D-513)"
+    }
+  },
+  "KDN_PICKUP": {
+    "nama_form": "Kendaraan pick-up 4WD (4x4)",
+    "default": null,
+    "variants": {
+      "Mahindra Scorpio Single Cab S6": "Type: Mahindra Scorpio Pikup Single Cab 4x4 S6\n[Overall Dimension]\nOverall Length (mm): 5160\nOverall Width (mm): 1822\nOverall Height (mm): 1805\nWheelbase (mm): 3034\nGround Clearance (mm): 230\n[Tray Dimension]\nLength x Width x Height in mm - Inner: 2300x1555x550\n[Mesin & Performa]\nEngine & Emission standard: 2.2L mHawk Diesel 4 cylinder Turbocharged Commonrail Direct Injection (Euro4 Emission)\nEngine Capacity: 2179 cc\nFuel type: Diesel\nTransmission: Manual Transmission – 6 speeds\nPower: 140 HP @3750 rpm\nTorque: 320 Nm @1500-2800 rpm\nTraction: 4x4 – Shift on the fly\nTyres: 245/75 R16\nWheels: 6.5J16 (Steel wheel with cap)\n[Berat & Kapasitas]\nGVW (kg): 3150 kg\nKERB (kg): 2055\nPay Load (kg): 1095\nFuel tank capacity (lt): 80L\nTowing Capacity: 2.5 Ton",
+      "Tata Yodha Single Cabin": "Type: Tata Yodha Single Cab 4x4\n[Engine]\nType: Common rail direct injection Turbocharged Intercooled diesel engine\nCapacity: 2.179 cc\nPower: 100 PS at 3.750 rpm\nTorque: 250 Nm at 1.000 – 2.500 rpm\nFuel Tank Capacity: 52L\n[Clutch & Transmission]\nClutch: Single Plate Dry Friction Diaphragm Conventional\nGearbox: 5 Speed Manual Transmission with Synchromesh on all Gears\nSteering: Power Steering\n[Suspension]\nFront Suspension: Semielliptical type\nRear Suspension: Semielliptical type\nAnti Roll Bar: At Front\n[Weights]\nGross Vehicle Weight: 2.990 kg\nKerb Weight: 1.780 kg\nPayload: 1.210 kg\n[Dimensions]\nOverall Height (mm): 1.810\nOverall Length (mm): 5.025\nOverall Width (mm): 1.860\n[Tyres]\nTyres: 215/75 R16"
+    }
+  },
+  "KDN_MOTOR_RODA3": {
+    "nama_form": "Motor bak roda 3",
+    "default": null,
+    "variants": {
+      "Power Ace Max Pro": "Type: Power Ace Max Pro\n[Mesin]\nTipe Mesin: 4 Langkah SOHC\nTipe Pendingin: Water Cooler Radiator\nDiameter x Langkah: 63.5 x 62.2 mm\nKopling: Manual Multiple Wet Clutch\nPengoperasian Transmisi: N-1-2-3-4-5 +R\nSistem Pengapian: CDI\n[Rangka & Kaki-Kaki]\nTipe Suspensi Depan: Teleskopik\nTipe Suspensi Belakang: Pegas daun+pegas spiral\nRem Depan: Tromol\nRem Belakang: Tromol R/L\nUkuran Ban: 450-12\n[Dimensi & Berat]\nPanjang x Lebar x Tinggi: 3350 x 1200 x 1350 mm\nBerat Kosong: 370 Kg\n[Kapasitas]\nKapasitas Tangki: 14 Liter\nKapasitas Silinder: 200 cc\nKapasitas Minyak Pelumas: 1.5 Liter\nDaya Angkut: 500 Kg\n[Kelistrikan]\nBaterai: 12V\n[Spesifikasi Carrier]\nPanjang x Lebar x Tinggi: 1800 x 1200 x 550 mm\nMaterial: Frame Baja dan Plat Bordes",
+      "HTM 200 DP 2.0": "Type: HTM 200 DP 2.0\n[Dimensi]\nKeseluruhan (PxLxT): 3680 x 1310 x 1535 mm\nBak (PxLxT): 2000 x 1250 x 560 mm\nDaya Angkut: 636 Kg\nJarak Sumbu Roda: 2450 mm\nJarak Terendah: 180 mm\nBerat Kosong: 464 Kg\nUkuran Ban Depan: 4.50 –R12\nUkuran Ban Belakang: 4.50 - R12\n[Mesin]\nTipe: HM 200 M/T\nTipe Mesin: 4 Langkah OHV, Water cooler\nDiameter x Langkah: 63.5 x 62.5\nVolume Silinder: 200 cc\nDaya Maksimum: 11.5 kW/7500 rpm\nTorsi Maksimum: 15 Nm/7000 rpm\nPerbandingan Kompresi: 10:1\nSistem Starter: Elektrik dan Pedal\nSistem Pengapian: CDI – AC\nKopling: Tipe Basah, manual dengan tuas kopling\nGigi Transmisi: 5 Gigi kecepatan dan mundur\nPola Pengoperan Gigi: 1-N-2-3-4-5\nSistem Bahan Bakar: Karburator\nBahan Bakar: Bensin\nBusi: TORCH 08 RC TM\nBattery: 12V – 10Ah\n[Rangka]\nTipe: Rangka Kotak\nSuspensi Depan: Teleskopik\nSuspensi Belakang: Pegas Daun dan Peredam Hidrolik\nGardan: Double Power\nRem Depan: Tromol\nRem Belakang: Tromol.R-L\nRem Tangan: Ada\n[Kapasitas]\nTangki Bahan Bakar: 15L\nOli Mesin: 1L\nOli Reverse Gear: 100 mL\nOli Gardan: 600 mL",
+      "Kaisar Triseda K 200cc": "Type: Kaisar Triseda K 200cc\n[Mesin Penggerak]\nModel Mesin (Penggerak Katup): SOHC\nLetak Motor Penggerak: FR (Front Engine – Rear Wheel Drive)\nSistem Pembakaran (Sistem Injeksi): CDI/Transistor\nJumlah Silinder dan Konfigurasi Silinder: Tunggal\nDiameter x Langkah Torak (mm x mm): 63,5x62,2\nDaya Maksimum (Kw / Rpm : HP/Rpm): 10 KW/7500 Rpm\nTorsi Maksimum: 14,2 Nm/6000 Rpm\nIdle Speed (Rpm): 1200\nVolume Silinder (cc): 197cc\nKecepatan Maksimum: 60 Km/Jam\n[Sistem Bahan Bakar]\nJenis Bahan Bakar: Bensin\nSistem Pemberian Bahan Bakar (Supply): Karburator\nKapasitas Tanki Bahan Bakar (Liter): 18 Liter\n[Penerus Daya (Transmisi/Kopling)]\nTipe Transmisi: Manual\nSistem Kendali Transmisi: Kendali Kaki\nPerbandingan Gigi - Gigi 1: 15.223\nPerbandingan Gigi - Gigi 2: 9.345\nPerbandingan Gigi - Gigi 3: 7.195\nPerbandingan Gigi - Gigi 4: 6.105\nPerbandingan Gigi - Gigi 5: 4.71\nPerbandingan Gigi - Gigi Mundur: 1.154\nPerbandingan Gigi - Gigi Akhir: 3.5\nTipe Kopling: Multi Wet Clutch\n[Sistem Pengereman]\nRem Utama - Pengendalian: Mekanis\nRem Utama - Tipe Rem Depan: Tromol\nRem Utama - Tipe Rem Belakang: Tromol\nRem Parkir - Pengoperasian: Tuas\nRem Parkir - Tipe: Mekanis\nRem Parkir - Bekerja Pada: Roda Belakang",
+      "APPKTM Mesin 200cc": "Type: APPKTM Mesin 200cc\n[Dimensi]\nBak (PxLxT): 1850x1350x750 mm\nDaya Angkut: 636 Kg\nUkuran Ban Depan: 4.50 - R12\nUkuran Ban Belakang: 4.50 - R12\n[Mesin]\nTipe Mesin: 4 Langkah OHV, Water Cooler\nVolume Silinder: 200 cc\nDaya Maksimum: 11,5 kW / 7500 rpm\nTorsi Maksimum: 15 Nm / 7000 rpm\nSistem Starter: Elektrik dan Pedal\nSistem Pengapian: CDI – AC\nGigi Transmisi: 5 Gigi kecepatan dan mundur\nPola Pengoperasian Gigi: 1-N-2-3-4-5\nBahan Bakar: Bensin\n[Rangka]\nSuspensi Depan: Teleskopik\nSuspensi Belakang: Pegas Daun dan Peredam Hidrolik\nRem Depan: Tromol\nRem Belakang: Tromol.R-L\nRem Tangan: Ada\n[Kapasitas]\nTangki Bahan Bakar: 15 L\nOli Mesin: 1 L\nOli Reverse Gear: 100 mL\nOli Gardan: 600 mL\nHidrolik: Ada",
+      "Gajah Merah Putih 200": "Type: Gajah Merah Putih 200\n[Dimensi]\nBak (PxLxT): 1850x1350x750 mm\nDaya Angkut: 636 Kg\nUkuran Ban Depan: 4.50 - R12\nUkuran Ban Belakang: 4.50 - R12\n[Mesin]\nTipe Mesin: 4 Langkah OHV, Water Cooler\nVolume Silinder: 200 cc\nDaya Maksimum: 11,5 kW / 7500 rpm\nTorsi Maksimum: 15 Nm / 7000 rpm\nSistem Starter: Elektrik dan Pedal\nSistem Pengapian: CDI – AC\nGigi Transmisi: 5 Gigi kecepatan dan mundur\nPola Pengoperasian Gigi: 1-N-2-3-4-5\nBahan Bakar: Bensin\n[Rangka]\nSuspensi Depan: Teleskopik\nSuspensi Belakang: Pegas Daun dan Peredam Hidrolik\nRem Depan: Tromol\nRem Belakang: Tromol.R-L\nRem Tangan: Ada\n[Kapasitas]\nTangki Bahan Bakar: 15L\nOli Mesin: 1 L\nOli Reverse Gear: 100 mL\nOli Gardan: 600 mL\nHidrolik: Ada",
+      "New Karya 200 Ln": "Type: New Karya 200 Ln\nDimensi Unit (PxLxT): 3540x1255x1344 mm\nJarak Terendah: 175 mm\nSuspensi Depan: Teleskopik\nSuspensi Belakang: Pegas Daun dengan Peredam Hidrolik\nRem Depan/Belakang: Tromol\nBerat Kosong: 370 kg\nDaya Angkut Maks.: 700 kg\nKapasitas Bensin: 16,5 Liter (Range 1 Liter = 25 Km)\nKapasitas Oli: 1,2 Liter (pada penggantian periodik)\nDimensi Bak (PxLxT): 2007x1255x370 mm\nTipe Mesin: 4 Langkah OHV\nSistem Pendinginan: Water Cooler (Radiator)\nVolume Langkah: 200 cc\nDaya Maksimum: 10/10.000 Kw/Rpm\nTorsi Maksimum: 13.6/9333 Nm/Rpm\nKopling: Manual Multiple Wet Clutch\nStarter: Pedal & Elektrik\nGigi Transmisi: N-1-2-3-4-5",
+      "TVS Armado": "Type: TVS Armado\nKapasitas Mesin (cc): 197.75 cc\nJumlah Silinder: 1 (satu) / vertikal\nBore x Stroke (mm x mm): 66x57.8\nMax Power: 10.6 kW / 7500 rpm\nMax Torque (Nm/rpm): 15.5 Nm/5000 rpm\nIdle Speed (rpm): 1500 +- 200 rpm\nKecepatan Maksimum: 63 +- 2 km/jam\nTipe Bahan Bakar: Bensin\nSuplai Bahan Bakar: Karburator\nKapasitas Tangki Bahan Bakar: 16 Liter\nDimensi (Panjang x Lebar x Tinggi) (mm): 3617x1369x1627 mm\nDimensi Luar Bak (Panjang x Lebar x Tinggi) (mm): 2070x1310x670 mm\nGround Clearence: 230 mm\nUkuran Ban Depan: 4.5x12\"\nUkuran Ban Belakang: 4.5x12\"\nDaya Angkut: 610 – 840 kg\nRem Depan: Tromol 130 mm\nRem Belakang: Tromol 220 mm\nTransmisi: 5 Kecepatan\nSuspensi Depan: Telescopic dengan coil spring\nSuspensi Belakang: Pegas daun dengan Peredam"
+    }
+  },
+  "OPS_KASIR_POS": {
+    "nama_form": "POS (Point of Sales)",
+    "default": "OS: Android 11\nProcessor: Quad-core, 2.0GHz\nMemory: 2GB RAM; 32GB ROM\nMain Screen: 15.6\" touch screen (1366*768 resolution)\nSub-Screen: 10.1\" display screen (1280*800 resolution)\nNFC: Supports mainstream high-frequency cards\nBluetooth: Supports BT 3.0/4.0\nLAN: 10M/100M adaptive\nWiFi: Supports dual-band WiFi (2.4GHz & 5GHz)\nSpeaker: 2W\nPorts: 4×USB, 1×RJ11, 1×RJ12, 1×RJ45, 1×HDMI, 1×Headphone jack, 1×DC port\nAdapter: 24V/1.5A\nOperating temperature: -10℃ ~ 50℃\nOperating humidity: 30% ~ 80% (non-condensing)\nStorage temperature: -20℃ ~ 60℃\nStorage humidity: 10% ~ 90% (non-condensing)",
+    "variants": {}
+  },
+  "OPS_KASIR_CASH_DRAWER": {
+    "nama_form": "Cash Drawer",
+    "default": "Tipe: Cash Drawer BQ330DK\nLock & Emergency Switch: Three-position lock; Emergency switch at the bottom\nSlots Configuration: 4 bill slots, 4 coin slots (all slots adjustable); Removable coin box; No check slot\nMaterial: Metal money clip; Galvanized base plate; Metal panel\nInterface: RJ11 (default), RJ12 with microswitch, MICRO, USB (optional)\nColor: Black\nVoltage: 12V\nWeight: Net weight: 4.1 kg; Gross weight: 4.5 kg\nCash drawer size: 335W × 360L × (90+10)H mm\nPackaging size: 415W × 405L × 145H mm\nOptional Accessory: Orange decorative strip",
+    "variants": {}
+  },
+  "OPS_KASIR_GUN_SCANNER": {
+    "nama_form": "Gun Scanner",
+    "default": "Tipe: Gun Scanner S22 V2\nProcessor: 32bit secure processor\nAcquisition Method: Image-based\nCamera: 800*600 resolution, 500,000-pixel CMOS\nView Angle: 48° (Horizontal) × 30° (Vertical)\nAcquisition Speed: 1/30 second\nRecognition Precision: 2D: ≥8mil; 1D: ≥3mil\nWorking Voltage: DC 5V ±10%\nWorking Current: Working: 150mA; Standby: 25mA\nCommunication Interface: USB-HID (default)\nSupported Code Types 1D: UPC-A, UPC-E, EAN-8, EAN-13, Code 128, GS1-128, ISBT-128, Code 39, Code 93, Code 11, Interleaved 2 of 5, Industrial 2 of 5, Matrix 2 of 5, Standard 2 of 5, Codabar, MSI/MSI-Plessey, GS1-DataBar/RSS\nSupported Code Types 2D: PDF417, QRCode, Aztec Code, DM(DataMatrix), MaxiCode, Han Xin Code (supports mobile screen reading)",
+    "variants": {}
+  },
+  "OPS_KASIR_FINGERPRINT": {
+    "nama_form": "Finger Print",
+    "default": "Tipe: Fingerprint AGF300\n[Electrical Parameters]\nCommunication Interface: USB1.1/2.0\nSupply Voltage: 5V (typical), range: 4.2V-5.5V\nWorking Current: 120mA (typical)\n[Performance Index]\nSensor Type: Optical\nAcquisition Method: Press-type\nHousing Dimensions: 67.6×36×15.1mm\nAcquisition Window: 24.0 × 26.0mm\nImage Size: 400*500pixels\nImage Resolution: 500DPI\nDistortion: ≤1%\nGrayscale Level: 8-bit, 256 levels\nGrayscale Dynamic Range: ≥150\nAcquisition Speed: ≥15 frames/s\nMatching Method: 1:1 Comparison; 1:N Search\nSearch Time: <0.1s (1:1); <1s (1:N, 1000 templates)\nFalse Acceptance Rate (FAR): <0.0001%\nFalse Rejection Rate (FRR): <0.5%\nESD Protection Level: Contact discharge: ±8KV; Air discharge: ±15KV\nSystem Support: Windows, Android",
+    "variants": {}
+  },
+  "OPS_KASIR_PRINTER_RECEIPT": {
+    "nama_form": "Printer Receipt",
+    "default": "Tipe: Printer Receipt FH0P58A - 58mm\nPrint Speed: 90mm/s\nPrinting Broadband: 57.5mm±0.5mm\nPaper Bin Size: 58 × φ60mm (MAX)\nPrint Head Lifespan: 150KM\nPaper Cutting Method: Tear the paper by hand\nPower Supply: European standard power supply\nPort: USB + cash box interface",
+    "variants": {}
+  },
+  "OPS_KASIR_PRINTER_BARCODE": {
+    "nama_form": "Printer Barcode",
+    "default": "Tipe: Printer Barcode PP8001\nPrinting Method: Thermal\nMaximum Width: 80±0.5mm\nEffective Print Width: 72mm\nWeight: 416g\nMaximum Paper Roll Diameter: 50mm\nDots Per Line: 576 dots/line\nPrint Speed: 80 mm/s\nLifespan: 50km (printing density <12.5%) or 100 million pulses\nInterface: Type-C + Bluetooth\nPower Supply: 2600mAh, 7.4V rechargeable lithium battery\nPower Adapter: 5V 1A",
+    "variants": {}
+  },
+  "OPS_KASIR_EDC": {
+    "nama_form": "EDC",
+    "default": "Tipe: EDC K9\nOS: Android 13\nCPU: High Performance Quad-core CPU\nMemory: 2GB RAM + 16GB ROM\nDisplay: 5.5\" HD, 1280x720, Multiple-point Touchscreen\nCamera: 2MP Front Camera, 5MP Rear Camera With A Flashlamp\nCommunication: 2G/3G/4G, WIFI 802.11 a/b/g/n, Bluetooth 5.0, Ethernet\nIC Card Reader: ISO 7816, EMV Standard\nMagnetic Card Reader: Support 1/2/3 Track And Bi-directional Swipe\nContactless Card Reader: ISO 14443 A&B, Mifare Card Standard\nGPS: GPS/Beidou/Glonass/A-GPS/LBS\nCard Slot: SIM x1 + PSAM x2 (PSAM2 slot can be used as SIM2), Maximum 128G TF Card\nPorts: Type C x 1, Support OTG\nPrinter: Thermal Printer, 58/40mm Paper Roll, Printing Speed 18 Lines/s\nBattery: 2600mAh, 7.2v, 18.72Wh",
+    "variants": {}
+  },
+  "OPS_KASIR_ROUTER": {
+    "nama_form": "WiFi Router/Modem",
+    "default": "Tipe: Wifi Router or Modem DTW6142\n[Working condition]\nWorking temp: 0~+50°C\nWorking humidity: 5~90% (non-condensing)\n[Storing condition]\nStoring temp: -30~+60°C\nStoring humidity: 5~90% (non-condensing)\nPower adapter: DC 12V, 1A\nPower supply: ≤12W\n[User Interface]\nEthernet: 4*10/100/1000Mbps auto-adaptive Ethernet interface RJ45 connectors (1WAN, 3*LAN)\n[WLAN Interface]\nStandard: Compliant with IEEE802.11b/g/n/ac/ax\nSpeed: 2402 Mbps (5GHz); 574 Mbps (2.4GHz)\nAntennas: 2.4GHz: 2*2, 5GHz: 2*2 (external antennas)\nMax connected devices: 128\n[Management & Network Features]\nManagement: WEB/Telnet/TR-069/SSH/CLI",
+    "variants": {}
+  },
+  "OPS_KASIR_UPS": {
+    "nama_form": "UPS",
+    "default": "Tipe: UPS Dianfengbao 1000VA\nRated Load Capacity: 1000VA/600W\nInput Voltage: 140-265Vac (Battery inverter outputs when exceeded)\nOutput Voltage: 220V±10% (Battery model)\nTransfer Time: 4-8ms\nOutput Waveform: Simulated Sine Wave\nNoise: ≤40dB\nBattery Model: 12V9AH\nNumber of Batteries: 1 piece\nCharging Time: 90% capacity in 6 hours\nOperating Environment: 0~90% humidity, 0-40°C temperature\nWeight: 6KG",
+    "variants": {}
+  },
+  "KMN_CCTV_IPCAM_INDOOR": {
+    "nama_form": "IP Camera Indoor",
+    "default": "Resolusi Maksimum: 1920 x 1080 (Full HD) at 30 fps\nImage Sensor: 1/2.8\" Progressive Scan CMOS\nMode Siang/Malam: IR Cut Filter with up to 30m (or 40m depending on specific regional revision)\nLensa: 2.8 mm lens, 4 mm lens, 6 mm lens\nSudut Pandang Horizontal (FOV): 112° (2.8 mm), 89° (4 mm), 54° (6 mm)\nKompresi Video: H.265+, H.265, H.264+, H.264, dan MJPEG\nVideo Streaming: Mendukung hingga 3 stream video secara bersamaan\nTingkat Perlindungan: IP67\nKetahanan Benturan: IK10\nPower Supply: DC 12V + 25% and Power over Ethernet (PoE)",
+    "variants": {}
+  },
+  "KMN_CCTV_IPCAM_OUTDOOR": {
+    "nama_form": "IP Camera Outdoor",
+    "default": "Resolusi Maksimum: 1920 x 1080 (Full HD) at 25/30 fps\nImage Sensor: 1/2.8\" Progressive Scan CMOS\nMode Siang/Malam: IR Cut Filter with up to 30m (or 40m depending on specific regional revision)\nLensa: 2.8 mm lens, 4 mm lens, 6 mm lens\nSudut Pandang Horizontal (FOV): 112° (2.8 mm), 89° (4 mm), 54° (6 mm)\nKompresi Video: H.265+, H.265, H.264+, H.264, dan MJPEG\nVideo Streaming: Mendukung hingga 3 stream video secara bersamaan\nFitur Gambar: BLC, HLC, 3D DNR, Digital WDR atau True WDR, ROI\nTingkat Perlindungan: IP67\nKetahanan Benturan: IK10\nPower Supply: DC 12V + 25% and Power over Ethernet (PoE)",
+    "variants": {}
+  },
+  "KMN_CCTV_NVR": {
+    "nama_form": "NVR 8 Channel",
+    "default": "Jumlah Channel: Minimal 8 Channel IP Camera\nResolusi Perekaman: Mendukung hingga 8 MP\nKompresi Video: H.265+, H.265, H.264+, H.264\nBandwidth Incoming: Minimal 80 Mbps\nVideo Output: HDMI dan VGA\nPenyimpanan: Minimal 1 SATA, mendukung HDD hingga 10 TB\nAntarmuka Jaringan: 1 X RJ45 Gigabit Ethernet (10/100/1000 Mbps)\nStandar Jaringan: Mendukung ONVIF serta protokol TCP/IP, DHCP, DNS, RTSP, HTTP/HTTPS\nUSB Port: Minimal 2 X USB\nRemote Access: Mendukung monitoring melalui PC Client dan aplikasi Android/iOS\nPower Supply: DC 12V",
+    "variants": {}
+  },
+  "KMN_CCTV_POE_SWITCH": {
+    "nama_form": "POE Switch 10 Port",
+    "default": "Jumlah Port: Minimal 8 Port PoE + 2 Port Uplink\nStandar PoE: IEEE 802.3af/at\nPoE Output: Maksimal 30 W per port\nTotal PoE Budget: Minimal 96 W\nSwitching Capacity: Minimal 5.6 Gbps\nAntarmuka: RJ45 Ethernet\nFitur: Auto Negotiation, Auto MDI/MDIX, Store-and-Forward\nPower Supply: AC 100–240V\nMaterial: Metal Housing",
+    "variants": {}
+  },
+  "KMN_CCTV_HDD": {
+    "nama_form": "HDD Minimal 2 TB",
+    "default": "Kapasitas: Minimal 2 TB\nForm Factor: 3.5 Inch\nInterface: SATA III 6 Gb/s atau lebih tinggi\nKecepatan Putaran: 5.400 RPM atau lebih tinggi\nCache Buffer: Minimal 64 MB\nOperasional: Mendukung operasi 24/7 untuk sistem CCTV",
+    "variants": {}
+  },
+  "KMN_CCTV_KABEL_LAN": {
+    "nama_form": "Kabel LAN Cat 6",
+    "default": "Jenis Kabel: Kabel UTP CAT 6\nKonduktor: Solid Copper\nUkuran: 23 AWG\nJumlah Core: 4 Pair (8 Core)\nBandwidth: 250 MHz\nKecepatan Data: Gigabit Ethernet 10/100/1000 Mbps\nPanjang: 305 Meter/Box\nImpedansi: 100 Ohm\nJacket: PVC atau LSZH\nAplikasi: LAN, CCTV IP Camera, dan PoE",
+    "variants": {}
+  },
+  "KMN_CCTV_LED_DISPLAY": {
+    "nama_form": "LED Display 19 Inch",
+    "default": "Ukuran Layar: 19 inci atau 24 inci\nResolusi: Minimal Full HD (1920 x 1080) (untuk 19\" dapat menerima HD+ 1600 x 900 apabila Full HD tidak tersedia)\nPanel: IPS atau VA atau TN\nAspect Ratio: 16:9\nRefresh Rate: Minimal 60 Hz\nBrightness: Minimal 250 cd/m²\nVideo Input: Minimal HDMI dan VGA\nPower Supply: AC 100–240V",
+    "variants": {}
+  },
+  "KMN_CCTV_RACK": {
+    "nama_form": "Wallmount Rack Server 4U",
+    "default": "Jenis: Wallmount Rack Cabinet 4U\nUkuran: 4U (19 Inch Standard Rack)\nTinggi Rack: Wall Mount (dinding)\nMaterial: Steel/SPCC dengan ketebalan minimal 1,0 mm\nPintu Depan: Tempered Glass dengan kunci\nPanel Samping: Removable Panel\nMounting Rail: Adjustable 19 Inch Rack Mount",
+    "variants": {}
+  },
+  "KMN_CCTV_RJ45": {
+    "nama_form": "Connector RJ45 Belden Cat 5",
+    "default": "Jenis: RJ45 Modular Plug\nKategori: CAT 6\nTipe: 8P8C (8 Pin)\nMaterial Kontak: Gold Plated Connector\nKompatibilitas: Kabel UTP CAT 6 dan CAT 5e\nKecepatan Data: Mendukung Gigabit Ethernet 10/100/1000 Mbps\nStandar Wiring: T568A/T568B\nAplikasi: LAN, CCTV IP Camera, PoE\nMaterial: Polycarbonate Housing",
+    "variants": {}
+  },
+  "KMN_CCTV_STOP_KONTAK": {
+    "nama_form": "Stop Kontak 6 Slot",
+    "default": "Spesifikasi teknis acuan menyusul dari data program.",
+    "variants": {}
+  },
+  "KMN_CCTV_PIPA_PVC": {
+    "nama_form": "Pipa PVC 20 mm",
+    "default": "Spesifikasi teknis acuan menyusul dari data program.",
+    "variants": {}
+  },
+  "KMN_CCTV_SOK_PIPA": {
+    "nama_form": "Sok Pipa",
+    "default": "Spesifikasi teknis acuan menyusul dari data program.",
+    "variants": {}
+  },
+  "KMN_CCTV_KABEL_DUCT": {
+    "nama_form": "Kabel Duct 40 x 25 mm (1 batang = 3 m)",
+    "default": "Spesifikasi teknis acuan menyusul dari data program.",
+    "variants": {}
+  },
+  "KMN_CCTV_KABEL_TIES": {
+    "nama_form": "Kabel Ties 20 cm",
+    "default": "Spesifikasi teknis acuan menyusul dari data program.",
+    "variants": {}
+  },
+  "KMN_CCTV_ISOLASI": {
+    "nama_form": "Isolasi Listrik",
+    "default": "Spesifikasi teknis acuan menyusul dari data program.",
+    "variants": {}
+  },
+  "KMN_CCTV_KABEL_HDMI": {
+    "nama_form": "Kabel HDMI 1,5 m",
+    "default": "Spesifikasi teknis acuan menyusul dari data program.",
+    "variants": {}
+  },
+  "KMN_CCTV_DOUBLE_TAPE": {
+    "nama_form": "Double Tape 3M",
+    "default": "Spesifikasi teknis acuan menyusul dari data program.",
+    "variants": {}
+  },
+  "GRY_INTERNET": {
+    "nama_form": "Internet",
+    "default": null,
+    "variants": {
+      "LTE 4G": "Layanan: Internet LTE 4G\nPerangkat internet konvensional: Router 4G; dan Switch 8 Port PoE dan Patch Cord 1 Meter",
+      "Satelit": "Layanan: Internet Satelit\nPerangkat: Perangkat Internet Satelit, lengkap dengan mikrotik, kabel LAN, wall mounting bracket, antena\nKuota: Perangkat lengkap dengan Kuota Internet"
+    }
+  },
+  "GRY_SOFTWARE_KASIR": {
+    "nama_form": "Perangkat Lunak Kasir (Software KDKMP)",
+    "default": "Software Kasir: Alat kerja kasir untuk melakukan pemrosesan terhadap order, yang akan digunakan di KDKMP\nTerdiri dari: Software Point of Sales, ERP + WMS + KDKMP Solutions, HRIS Solutions",
+    "variants": {}
+  },
+  "GRY_AC_2PK": {
+    "nama_form": "AC 2 PK",
+    "default": null,
+    "variants": {
+      "BEST": "Model: BEST-18FDR3\nKapasitas Pendingin: 18.000 Btu/h\nDaya Masukan Minimum: 1734 W\nArus Masukan Minimum: 7,80 A\nTegangan/Frekuensi: 220V/50 Hz\nPipa Refrigerant Diameter: ¼\" + ½\" (4 Meter)\nCable Control NYM: 3x2,5 mm2 (4 Meter)\nPipa Drain Diameter: 20 mm2 (3 Meter)",
+      "FLIFE": "Model: FAC-18FMOO3 / FAC-18FLOO\nKapasitas Pendingin: 18.000 Btu/h\nDaya Masukan Minimum: 1500 W\nTegangan/Frekuensi: 220V–240V\nPipa Refrigerant Diameter: ¼\" + ½\" (3 Meter)\nCable Control NYM: 3x 2,5 mm2 (4 Meter)\nPipa Drain Diameter: 20 mm2 (3 Meter)",
+      "Gree": "Model: GWC-18N1 / GWC-18N1A\nKapasitas Pendingin: 18.000 Btu/h\nDaya Masukan Minimum: 1450 W\nTegangan/Frekuensi: 220V–240V\nPipa Refrigerant Diameter: ¼\" + ½\" (3 Meter)\nCable Control NYM: 3x 2,5 mm2 (4 Meter)\nPipa Drain Diameter: 20 mm2 (3 Meter)",
+      "Midea": "Model: MSCE-19CRFN8\nKapasitas Pendingin: 18.000 Btu/h\nDaya Masukan Minimum: 1858 W\nTegangan/Frekuensi: 220V–240V\nPipa Refrigerant Diameter: ¼\" + ½\" (3 Meter)\nCable Control NYM: 3x 2,5 mm2 (4 Meter)\nPipa Drain Diameter: 20 mm2 (3 Meter)"
+    }
+  },
+  "GRY_AC_1PK": {
+    "nama_form": "AC 1 PK",
+    "default": null,
+    "variants": {
+      "BEST": "Model: BEST-09FDR3\nKapasitas Pendingin: 9.000 Btu/h\nDaya Masukan Minimum: 861 W\nArus Masukan Minimum: 3,92 A\nTegangan/Frekuensi: 220V/50 Hz\nPipa Refrigerant Diameter: 3/8\" + 1/4\" (4 Meter)\nCable Control NYM: 3x2,5 mm2 (4 Meter)\nPipa Drain Diameter: 20 mm2 (3 Meter)",
+      "FLIFE": "Model: FAC-09FMOO3 / FAC-09FLOO\nKapasitas Pendingin: 9.000 Btu/h\nDaya Masukan Minimum: 725 W\nTegangan/Frekuensi: 220V–240V\nPipa Refrigerant Diameter: Dia. 3/8\" + 1/4\" (3 Meter)\nCable Control NYM: 3x 2,5 mm2 (4 Meter)\nPipa Drain Diameter: 20 mm2 (3 Meter)",
+      "Gree": "Model: GWC-09N1 / GWC-09N1A\nKapasitas Pendingin: 9.300 Btu/h\nDaya Masukan Minimum: 780 W\nTegangan/Frekuensi: 220V–240V\nPipa Refrigerant Diameter: Dia. 3/8\" + 1/4\" (3 Meter)\nCable Control NYM: 3x 2,5 mm2 (4 Meter)\nPipa Drain Diameter: 20 mm2 (3 Meter)",
+      "Midea": "Model: MSCE-10CRFN8\nKapasitas Pendingin: 9.000 Btu/h\nDaya Masukan Minimum: 824 W\nTegangan/Frekuensi: 220V–240V\nPipa Refrigerant Diameter: Dia. 3/8\" + 1/4\" (3 Meter)\nCable Control NYM: 3x2,5 mm2 (4 Meter)\nPipa Drain Diameter: 20 mm2 (3 Meter)"
+    }
+  },
+  "GRY_MEJA_KOPERASI": {
+    "nama_form": "Meja Koperasi Simpan Pinjam",
+    "default": "Product Dimension: w2000 x d600 x h1900 mm\nMaterial: core melamine face chipboard (white)\nMaterial: core particle board HPL laminated (red)\nStraight PVC edge band\nPlastic cabinet based\nKnock down system",
+    "variants": {}
+  },
+  "GRY_LACI_DORONG": {
+    "nama_form": "Laci Dorong",
+    "default": "Product Dimension: w390 x d500 x h600 mm\nRed and White Color Combination\nIron Material 0.5 mm\n3 Drawers\nLock\n4 Bottom Wheels",
+    "variants": {}
+  },
+  "GRY_RAK_ETALASE": {
+    "nama_form": "Rak Etalase",
+    "default": "Product Dimension: w1000 x d400 x h850 mm\nTiang single 85 x 40 holo 60 x 30 x 1,2 mm\nBackmesh 850 x 1000 mm\nShelving dasar 1000 x 400 x 0,7 mm\nShelving atas 1000 x 350 x 0.7 mm",
+    "variants": {}
+  },
+  "GRY_MEJA_KASIR": {
+    "nama_form": "Meja Kasir",
+    "default": "Product Dimension: w1500 x d500 x h750 mm dan w450 x d500 x h750 mm\nBody: 0.5 mm\nTable: 0.7 mm stainlessteel",
+    "variants": {}
+  },
+  "GRY_LEMARI_DISPLAY_APOTEK": {
+    "nama_form": "Lemari Display Apotek",
+    "default": "Product Dimension: w1250 x d400 x h2200 mm\nShelf: 0,5 mm\nBack pannel: 0,5 mm",
+    "variants": {}
+  },
+  "GRY_KLINIK_MEJA_ADMINISTRASI": {
+    "nama_form": "Meja Administrasi Klinik",
+    "default": "Dimensi: w1500 x d600 x h1150 mm\nMaterial: Core Melamine Face Chipboard (White)\nMaterial: Core Particle Board HPL Laminated (Red)\nStraight PVC Edge",
+    "variants": {}
+  },
+  "GRY_KLINIK_LACI_DORONG": {
+    "nama_form": "Laci Dorong",
+    "default": "Product Dimension: w390 x d500 x h600 mm\nRed and White Color Combination\nIron Material 0.5 mm\n3 Drawers\nLock\n4 Bottom Wheels",
+    "variants": {}
+  },
+  "GRY_KLINIK_KURSI": {
+    "nama_form": "Kursi (10 Unit)",
+    "default": "[Rincian Peruntukan (total 10 unit)]\nKursi Dokter: 1 unit\nKursi pasien: 2 unit\nKursi klinik: 1 unit\nKursi kasir: 2 unit\nKursi tunggu: 4 unit\n[Spesifikasi]\nProduct Dimension: Dimensi Dudukan + 40 cm s.d 45 cm\nItem Specifications: High-Grade Polypropylene (PP)\nFinishing: Matt/Semi-Gloss\nKaki: 4 Kaki Padat (Splayed Legs)",
+    "variants": {}
+  },
+  "GRY_KLINIK_MEJA_DOKTER": {
+    "nama_form": "Meja Dokter",
+    "default": "Dimensi: 1400 x 600 x 750 mm\nDimensi: 800 x 400 x 750 mm\nMaterial: Core Melamine Face Chipboard (White)\nMaterial: Core Particle Board HPL Laminated (Red)\nStraight PVC Edge Band\nPlastic Cabinet Based\nPlastic Gromet\nKnock Down System",
+    "variants": {}
+  },
+  "GRY_KLINIK_TEMPAT_TIDUR": {
+    "nama_form": "Tempat Tidur Periksa Pasien",
+    "default": "Ukuran: 75 x 195 x 80 cm\nMaterial pipa: 1,0 mm\nFoam with vinyl cover",
+    "variants": {}
+  },
+  "GRY_RAK_WALL": {
+    "nama_form": "Rak Display Single/Wall/Pinggir 90x40x180 cm",
+    "default": null,
+    "variants": {
+      "Single Starting": "Item: Display Rak Gondola Single Starting\nDimensi: 90 x 40 x 180 cm\nJumlah Shelving: 6\nBeban Ambalan: 35 - 40 kg\nTiang: Single 180 x 40 cm - Hollow 60 x 30 x 1.5 mm\nBackmesh: 180 x 90 cm with frame\nShelving Dasar: 900 x 400 x 0.6 mm\nShelving Atas: 900 x 350 x 0.6 mm\nBracket: 35 (isi 2) Standard D2.0 mm",
+      "Single Adjoining": "Item: Display Rak Gondola Single Adjoining\nDimensi: 90 x 40 x 180 cm\nJumlah Shelving: 6\nBeban Ambalan: 35 - 40 kg\nTiang: Single 180 x 40 cm - Hollow 60 x 30 x 1.5 mm\nBackmesh: 180 x 90 cm with frame\nShelving Dasar: 900 x 400 x 0.6 mm\nShelving Atas: 900 x 350 x 0.6 mm\nBracket: 35 (isi 2) Standard D2.0 mm"
+    }
+  },
+  "GRY_RAK_ISLAND": {
+    "nama_form": "Rak Display Double/Island/Tengah 90x80x150 cm",
+    "default": null,
+    "variants": {
+      "Double Starting": "Item: Display Rak Gondola Double Starting\nDimensi: 90 x 80 x 150 cm\nJumlah Shelving: 6\nBeban Ambalan: 35 - 40 kg\nTiang: Double 150 x 90 cm - Hollow 60 x 30 x 1.5 mm\nBackmesh: 150 x 90 cm with frame\nShelving Dasar: 900 x 400 x 0.6 mm\nShelving Atas: 900 x 350 x 0.6 mm\nBracket: 35 (isi 2) Standard D2.0 mm",
+      "Double Adjoining": "Item: Display Rak Gondola Double Adjoining\nDimensi: 90 x 80 x 150 cm\nJumlah Shelving: 6\nBeban Ambalan: 35 - 40 kg\nTiang: Double 150 x 90 cm - Hollow 60 x 30 x 1.5 mm\nBackmesh: 150 x 90 cm with frame\nShelving Dasar: 900 x 400 x 0.6 mm\nShelving Atas: 900 x 350 x 0.6 mm\nBracket: 35 (isi 2) Standard D2.0 mm"
+    }
+  },
+  "GRY_RAK_END": {
+    "nama_form": "Rak Display End 80x40x150 cm",
+    "default": "Item: Display Rak Gondola Single End\nDimensi: 80 x 40 x 150 cm\nJumlah Shelving: 6\nBeban Ambalan: 35 - 40 kg\nTiang: Single 150 x 40 cm - Hollow 60 x 30 x 1.5 mm\nBackmesh: ± (140 x 75) cm with frame\nShelving Dasar: ± (78 x 40) cm x 0.6 mm\nShelving Atas: ± (78 x 33) cm x 0.6 mm\nBracket: 35 (isi 2) Standard D2.0 mm",
+    "variants": {}
+  },
+  "KMN_APAR_3KG": {
+    "nama_form": "APAR 3 kg",
+    "default": null,
+    "variants": {
+      "Saige": "Kapasitas: 3 Kg\nMerk: Saige\nType: XL01-030P1\nJenis Isi: ABC Dry Chemical Powder\nTekanan Kerja: 14 bar - 15 bar\nTekanan Uji: 25 bar\nLama Semprot: 8 - 15 detik\nJarak Semprot: 3 - 5 meter\nTinggi Tabung: 44 cm - 47 cm\nDiameter Tabung: 12,5 cm - 14,5 cm",
+      "QTREX": "Kapasitas: 3 Kg\nMerk: QTREX\nType: QX-300P\nJenis Isi: ABC Dry Chemical Powder\nTekanan Kerja: 14 bar - 15 bar\nTekanan Uji: 25 bar\nLama Semprot: 8 - 15 detik\nJarak Semprot: 3 - 5 meter\nTinggi Tabung: 44 cm - 47 cm\nDiameter Tabung: 12,5 cm - 14,5 cm",
+      "Indoraya Fire": "Kapasitas: 3 Kg\nMerk: Indoraya Fire\nType: IDF-30P\nJenis Isi: ABC Dry Chemical Powder\nTekanan Kerja: 14 bar - 15 bar\nTekanan Uji: 25 bar\nLama Semprot: 8 - 15 detik\nJarak Semprot: 3 - 5 meter\nTinggi Tabung: 44 cm - 47 cm\nDiameter Tabung: 12,5 cm - 14,5 cm"
+    }
+  },
+  "KMN_APAR_9KG": {
+    "nama_form": "APAR 9 kg",
+    "default": null,
+    "variants": {
+      "Saige": "Kapasitas: 9 Kg\nMerk: Saige\nType: XL01-090P1\nJenis Isi: ABC Dry Chemical Powder\nTekanan Kerja: 14 bar - 15 bar\nTekanan Uji: 25 bar\nLama Semprot: 20 - 39 detik\nJarak Semprot: 5 - 12 meter\nTinggi Tabung: 47,5 cm - 55 cm\nDiameter Tabung: 17 cm - 19 cm",
+      "QTREX": "Kapasitas: 9 Kg\nMerk: QTREX\nType: QX-90P\nJenis Isi: ABC Dry Chemical Powder\nTekanan Kerja: 14 bar - 15 bar\nTekanan Uji: 25 bar\nLama Semprot: 20 - 39 detik\nJarak Semprot: 5 - 12 meter\nTinggi Tabung: 55 cm - 60 cm\nDiameter Tabung: 17 cm - 19 cm",
+      "Indoraya Fire": "Kapasitas: 9 Kg\nMerk: Indoraya Fire\nType: IDF-90P\nJenis Isi: ABC Dry Chemical Powder\nTekanan Kerja: 14 bar - 15 bar\nTekanan Uji: 25 bar\nLama Semprot: 20 - 39 detik\nJarak Semprot: 5 - 12 meter\nTinggi Tabung: 55 cm - 60 cm\nDiameter Tabung: 17 cm - 19 cm"
+    }
+  },
+  "GRY_KERANJANG_TARIK": {
+    "nama_form": "Keranjang Tarik",
+    "default": null,
+    "variants": {
+      "Tipe A": "Jenis Produk: Keranjang belanja tarik (shopping basket trolley) dengan roda\nMaterial: Plastik polypropylene (PP) atau HDPE berkualitas tinggi atau material sejenis yang kuat, ringan, tahan benturan, dan tahan penggunaan berulang\nKapasitas: ± 30 - 45 liter\nWarna: Merah\nDimensi: Panjang ± 430 - 650 mm, Lebar ± 300 - 420 mm, Tinggi ± 350 - 500 mm (termasuk handle dalam posisi terpasang)\nPanjang Handle Tarik: Menyesuaikan dengan desain produk\nPegangan: Dilengkapi handle tarik ergonomis dengan mekanisme tarik dan penyimpanan yang mudah digunakan\nDaya Tahan Beban: ± 15 – 30 kg\nDesain: Berlubang (ventilasi)\nDesain Samping: Terdapat area untuk penempatan logo KDKMP\nRoda: Minimal 4 (empat) roda, berbahan plastik/PU/karet atau material sejenis yang kuat dan stabil",
+      "Tipe B": "Jenis Produk: Keranjang belanja tarik (shopping basket trolley) dengan roda\nMaterial: Plastik polypropylene (PP) atau HDPE berkualitas tinggi atau material sejenis yang kuat, ringan, tahan benturan, dan tahan penggunaan berulang\nKapasitas: ± 30 - 45 liter\nWarna: Merah\nDimensi: Panjang ± 430 - 650 mm, Lebar ± 300 - 420 mm, Tinggi ± 350 - 500 mm (termasuk handle dalam posisi terpasang)\nPanjang Handle Tarik: Menyesuaikan dengan desain produk\nPegangan: Dilengkapi handle tarik ergonomis dengan mekanisme tarik dan penyimpanan yang mudah digunakan\nDaya Tahan Beban: ± 15 – 30 kg\nDesain: Berlubang (ventilasi)\nDesain Samping: Terdapat area untuk penempatan logo KDKMP\nRoda: Minimal 4 (empat) roda, berbahan plastik/PU/karet atau material sejenis yang kuat dan stabil"
+    }
+  },
+  "GRY_KERANJANG_JINJING": {
+    "nama_form": "Keranjang Jinjing",
+    "default": null,
+    "variants": {
+      "Tipe A": "Material: Plastik polypropylene (PP) atau HDPE berkualitas tinggi\nKapasitas: 20 – 30 liter\nWarna: Merah Terang\nDimensi: Panjang 400 – 500 mm, Lebar 290 – 345 mm, Tinggi 220 - 254 mm\nBerat: 1 – 3 kg\nPegangan: 2 pegangan lipat berbahan plastik\nDaya Tahan Beban: 15 – 25 kg\nDesain: Berlubang (ventilasi)\nDesain Samping: Terdapat area untuk penempatan logo KDKMP",
+      "Tipe B": "Material: Plastik polypropylene (PP) atau HDPE berkualitas tinggi\nKapasitas: 20 – 30 liter\nWarna: Merah Terang\nDimensi: Panjang 400 – 500 mm, Lebar 290 – 345 mm, Tinggi 220 - 254 mm\nBerat: 1 – 3 kg\nPegangan: 2 pegangan lipat berbahan plastik\nDaya Tahan Beban: 15 – 25 kg\nDesain: Berlubang (ventilasi)\nDesain Samping: Terdapat area untuk penempatan logo KDKMP"
+    }
+  },
+  "OPS_SERAGAM_KEMEJA": {
+    "nama_form": "Kemeja",
+    "default": "Jenis Bahan: OXBC\nWarna/ Kode: Cream\nBordir/Sablon/DTF/Printing: Bordir",
+    "variants": {}
+  },
+  "OPS_SERAGAM_KAOS_POLO": {
+    "nama_form": "Kaos Polo",
+    "default": "Jenis Bahan: PE Soft Single\nWarna/ Kode: Marun\nBordir/Sablon/DTF/Printing: Bordir\nManset: Manset Kerah & Lengan",
+    "variants": {}
+  },
+  "OPS_PALLET": {
+    "nama_form": "Pallet",
+    "default": null,
+    "variants": {
+      "Pallet Biru": "Jenis Produk: Pallet plastik heavy duty\nMaterial: HDPE (High Density Polyethylene) / Plastik berkualitas tinggi\nKapasitas Beban Statis: 3.000 kg\nKapasitas Beban Dinamis: 1.000 kg\nUkuran: 1100 x 1100 x 120 mm\nBerat Pallet: 7 kg\nSistem Entry: 4 ways entry (dapat diakses forklift/ hand pallet dari 4 sisi)\nWarna: Biru\nSurface: Anti slip/ permukaan stabil untuk penyimpanan barang\nKetebalan Deck/ Permukaan: 5 – 10 mm\nKetebalan Dinding/ Rib Struktur: 3 – 5 mm",
+      "Pallet Hitam": "Jenis Produk: Pallet plastik heavy duty\nMaterial: HDPE (High Density Polyethylene) / Plastik berkualitas tinggi\nKapasitas Beban Statis: 3.000 kg\nKapasitas Beban Dinamis: 1.000 kg\nUkuran: 1100 x 1100 x 200 mm\nBerat Pallet: 7 kg\nSistem Entry: 4 ways entry (dapat diakses forklift/ hand pallet dari 4 sisi)\nWarna: Hitam\nSurface: Anti slip/ permukaan stabil untuk penyimpanan barang\nKetebalan Deck/ Permukaan: 5 - 10 mm\nKetebalan Dinding/ Rib Struktur: 1 – 5 mm"
+    }
+  },
+  "OPS_PRINTER": {
+    "nama_form": "Printer",
+    "default": "Merek / Tipe: Epson LX-310 Dot Matrix Printer\nTeknologi Cetak: Impact Dot Matrix\nJumlah Pin: 9-Pin Narrow Carriage\nKecepatan Cetak: Hingga 357 karakter per detik (cps)\nMode Cetak: Draft, High Speed Draft, Draft Condensed, LQ\nResolusi / Kualitas: Hingga Letter Quality (LQ)\nInterface / Konektivitas: USB, Serial, Parallel\nBuffer Memory: 128 KB\nLebar Cetak: Narrow Carriage\nJenis Kertas: Continuous form, cut sheet, multi-part paper\nUkuran Kertas: A4, continuous form, envelope, dll\nSistem Penarikan Kertas: Tractor feed & manual insertion\nKetahanan (MTBF): Hingga 10.000 jam\nUmur Head Printer: ± 400 juta stroke\nRibbon Cartridge: Fabric Ribbon Cartridge (Black)\nUmur Ribbon: ± 4 juta karakter\nTingkat Kebisingan: ± 53 dB\nKonsumsi Daya: ± 27W (operasi), hemat energi saat standby\nTegangan Listrik: AC 220 – 240 V\nFrekuensi: 50 – 60 Hz\nSistem Operasi: Windows XP / Vista / 7 / 8 / 10 / 11\nDimensi: ± 362 x 275 x 154 mm\nBerat: ± 4,1 kg\nFitur Tambahan: Mendukung multi-copy printing (hingga 4 rangkap), continuous printing\nKegunaan: Cocok untuk administrasi, invoice, dan operasional skala besar",
+    "variants": {}
+  },
+  "KMN_BRANKAS": {
+    "nama_form": "Brankas",
+    "default": null,
+    "variants": {
+      "ET571": "Jenis Produk: Digital Safe Box Tipe ET571\nMaterial: Heavy duty carbon steel/ pelat baja berkualitas tinggi\nDimensi Dalam: Panjang 370 mm, Lebar 310 mm, Tinggi 440 mm\nDimensi Luar: Panjang 380 mm, Lebar 320 mm, Tinggi 450 mm\nTebal Dinding: 1,5 – 2 mm\nTebal Pintu: 4 - 6 mm\nBerat: ± 25 kg\nSistem Penguncian: Key/ Password\nSistem Darurat: Emergency key / manual key\nSurface Treatment: Finishing powder coating / electrostatic powder coating anti karat dan tahan gores\nAksesoris Interior: Terdapat tray penyimpanan dan reset button",
+      "Black 42": "Jenis Produk: Digital Safe Box Tipe Black 42\nMaterial: Heavy duty carbon steel/ pelat baja berkualitas tinggi\nDimensi Dalam: Panjang 375 mm, Lebar 375 mm, Tinggi 240 mm\nDimensi Luar: Panjang 380 mm, Lebar 325 mm, Tinggi 450 mm\nTebal Dinding: 1,5 – 2 mm\nTebal Pintu: 4 - 6 mm\nBerat: ± 25 kg\nSistem Penguncian: Fingerprint, Password Digital, Kunci Mekanis (Emergency Key)\nSistem Darurat: Emergency key / manual key\nSurface Treatment: Powder Coating anti karat dan ramah lingkungan\nAksesoris Interior: Terdapat tray penyimpanan dan reset button"
+    }
+  },
+  "KMN_GENSET": {
+    "nama_form": "Genset",
+    "default": "Jenis: Genset Diesel\nTipe: Non Silent (Open Type) / Silent Type\nKapasitas: 10-20 KVA\nDaya Keluaran: Menyesuaikan kapasitas genset\nFrekuensi: 50 Hz\nTegangan Output: 220V dan/atau 380 V\nFaktor Daya: 0,8\nDimensi: Menyesuaikan kapasitas dan desain pabrikan\nBerat: Menyesuaikan kapasitas dan desain pabrikan\nTingkat Kebisingan: Menyesuaikan tipe genset (Open Type atau Silent Type)\nSistem Pendingin: Pendingin udara (Air Cooled) atau pendingin air (Water Cooled), sesuai kapasitas\nRangka: Rangka baja dengan dudukan anti getar (anti vibration mounting)\nAlternator: Brushless atau setara\nSistem Regulasi Tegangan: Automatic Voltage Regulator (AVR) atau setara\nSistem Proteksi: Dilengkapi proteksi terhadap beban lebih, tekanan oli rendah, temperatur tinggi, dan gangguan operasional lainnya\nFitur Tambahan: Dilengkapi emergency stop, indikator pengoperasian, dan terminal grounding\nPanel Kontrol: Dilengkapi panel kontrol digital atau analog untuk pemantauan dan pengoperasian genset",
+    "variants": {}
+  },
+  "OPS_STEMPEL": {
+    "nama_form": "Stempel",
+    "default": "Jenis Stempel: Otomatis (Flash Stamp)\nBentuk Gagang & Karet: Persegi Panjang (Rectangular)\nEstimasi Panjang Gagang: 55 mm - 70 mm\nEstimasi Lebar Gagang: 25 mm - 40 mm\nEstimasi Tinggi Stempel: 70 mm - 90 mm\nEstimasi Panjang Karet Teks: 51 mm - 66 mm\nEstimasi Lebar Karet Teks: 22 mm - 36 mm\nBahan Gagang (Handle): Plastik PVC / ABS High Quality\nBahan Dudukan Karet: Plastik Akrilik / Komposit Keras\nJenis Karet: Karet Flash (Flash Foam)\nWarna Tinta Default: Merah\nDaya Tahan Pengecapan: 200 - 500 Kali Cap",
+    "variants": {}
+  },
+  "OPS_STRUK": {
+    "nama_form": "Struk",
+    "default": "Ukuran: 57 mm - 58 mm\nDiameter Gulungan: 30 mm\nKetebalan Kertas: 58 gsm - 65 gsm",
+    "variants": {}
+  },
+  "OPS_THERMAL_LABEL": {
+    "nama_form": "Thermal Label",
+    "default": "Ukuran: 50 mm x 30 mm\nInti Roll (Core): 1 inci (25 mm) atau kompatibel dengan printer yang digunakan\nJumlah Label per Roll: Minimal 1.000 label/roll\nJenis: Thermal Label Stiker",
+    "variants": {}
+  },
+  "OPS_TEMPAT_SAMPAH": {
+    "nama_form": "Tempat Sampah Besar",
+    "default": null,
+    "variants": {
+      "3 Pilah (Triple Bin)": "Jenis Produk: Tempat Sampah 3 Pilah (Triple Bin) dengan Rangka/ Stand\nJumlah Kompartemen: 3 (tiga) kompartemen untuk pemilahan sampah\nJenis Bahan Tong: High Density Polyethylene (HDPE), Fiberglass, atau material sejenis yang kuat, tahan benturan, tahan cuaca, tahan sinar UV, serta tidak mudah retak\nKapasitas: Minimal 40 Liter s.d. 50 Liter per tong (Total kapasitas 1 set akumulatif minimal 120 - 150 Liter)\nMaterial Rangka: Besi galvanis, baja ringan, hollow steel, atau material logam sejenis dengan lapisan antikarat (powder coating atau galvanis)\nDimensi Tong: Menyesuaikan kapasitas 40–50 Liter\nDimensi Set: Menyesuaikan desain pabrikan, terdiri atas 1 (satu) rangka penyangga dengan 3 (tiga) kompartemen\nWarna: Minimal terdiri dari 3 warna berbeda sesuai kebutuhan pemilahan sampah\nPenutup: Dilengkapi tutup yang menyatu dengan bodi, model ayun (swing), bukaan atas, atau model sejenis\nIdentifikasi: Dilengkapi simbol, label, atau stiker yang menunjukkan jenis pemilahan sampah, serta tersedia area atau media untuk pemasangan logo",
+      "Wheelie Bin": "Jenis Produk: Tempat sampah dengan roda (Wheelie Bin)\nJumlah Produk: 1 (satu) set terdiri atas 3 (tiga) unit tempat sampah dengan roda\nKapasitas: Minimal 120 Liter per unit (total kapasitas 1 set minimal 360 Liter)\nMaterial: High Density Polyethylene (HDPE) atau material sejenis yang kuat, tahan benturan, tahan cuaca, tahan sinar UV, dan tidak mudah retak\nDimensi: Menyesuaikan kapasitas minimal 120 liter\nWarna: Body berwarna merah, dengan warna tutup disesuaikan dengan kebutuhan pemilahan sampah (hijau/biru/kuning/warna lainnya sesuai kebutuhan)\nPenutup: Dilengkapi tutup dengan engsel terintegrasi\nRoda: Minimal 2 roda untuk memudahkan pemindahan\nPegangan: Dilengkapi pegangan yang ergonomis dan menyatu dengan bodi\nIdentifikasi: Dilengkapi simbol, label, atau stiker yang menunjukkan jenis pemilahan sampah, serta tersedia area atau media untuk pemasangan logo"
+    }
+  },
+  "OPS_ALAT_PEL": {
+    "nama_form": "Alat Pel dan Ember",
+    "default": "[A. Ember]\nMaterial Body: High-Grade Polypropylene (PP) tebal, kokoh, dan tidak mudah pecah/retak\nKeranjang Pemeras: Terbuat dari bahan plastic tebal berkualitas tinggi atau Stainless Steel antikarat\nFitur Desain: Dilengkapi pelindung percikan air (splash guard) dan gagang jinjing (handle) yang seimbang serta kuat\nKapasitas Total: Minimal 5 – 7 Liter air bersih\nWarna: Merah / Menyesuaikan permintaan ketersediaan stok operasional.\n[B. Gagang Pel]\nMaterial Tongkat: Stainless Steel anti karat berkualitas tinggi dikombinasikan dengan pengunci plastik ABS\nMekanisme Putar: Dilengkapi sistem interlock internal (bisa dikunci saat mengepel dan dibuka saat membilas/memeras)\nFitur Tambahan: Gagang atas dilengkapi lubang gantungan (hanging loop) untuk kemudahan penyimpanan\nPanjang Tongkat: Bersifat adjustable (bisa diatur) dengan panjang minimal 100 cm hingga 125 cm\n[C. Kepala & Kain Pel (Mop Head)]\nMaterial Kain Pel: 100% serat Microfiber berkualitas tinggi, memiliki daya serap tinggi, efektif mengikat debu, dan tidak menggores lantai\nDesain Kepala Pel: Bentuk bulat, dapat berputar 360° untuk menjangkau sudut sempit atau di bawah furnitur",
+    "variants": {}
+  },
+  "OPS_SAPU_PENGKI": {
+    "nama_form": "Sapu Lantai dan Pengki",
+    "default": "Bahan Bulu Sapu: Serat sintetis (nilon/PET) atau ijuk sintetis\nBahan Kepala Sapu: Plastik PP atau material setara\nBahan Gagang Sapu: Besi berlapis cat, aluminium, atau plastik\nPanjang Gagang Sapu: Minimal 100 cm\nBahan Pengki: Plastik PP atau material setara\nPanjang Gagang Pengki: Minimal 65 cm",
+    "variants": {}
+  },
+  "GRY_KOMPUTER_AIO": {
+    "nama_form": "PC All in One Intel, RAM 8 GB, SSD 512 GB",
+    "default": "Prosesor (CPU): Minimal Intel Core i3/ AMD Ryzen3 / Setara\nMemori (RAM): Minimal 8 GB DDR4 (Disarankan memiliki slot ekspansi hingga 16 GB atau 32 GB untuk investasi jangka panjang).\nPenyimpanan (Storage): Minimal 256 GB SSD NVMe M.2\nGrafis (GPU): Integrated Graphics\nUkuran Layar: Minimal 21.5 inci s.d. 23.8 inci\nResolusi: Full HD (1920 x 1080 piksel)\nTeknologi Panel: IPS (In-Plane Switching) dengan fitur Anti-Glare (anti silau)\nKoneksi Nirkabel: Wi-Fi 5/6 dan Bluetooth 5.0 (atau versi di atasnya)\nPort Belakang/Samping: Minimal 2x USB 3.2 Gen 1; Minimal 2x USB 2.0; 1x HDMI-Out; 1x RJ-45 Ethernet Port; 1x Audio Combo Jack (3.5mm)\nSistem Operasi: Windows 11 Home / Pro (64-bit)\nKamera (Webcam): HD 720p atau FHD 1080p\nAudio: Integrated Speakers (Dual Speaker Stereo) dan Built-in Microphone\nPerangkat Input: Termasuk 1x Wireless (atau Wired) Keyboard & Mouse bawaan pabrik\nDesain Kaki (Stand): Ergonomis, mendukung pengaturan sudut kemiringan (tilt) layar",
+    "variants": {}
+  },
+  "GRY_CHILLER": {
+    "nama_form": "Chiller 1 Pintu (2 Unit)",
+    "default": "Tipe: Chiller 1 (satu) pintu, upright\nKapasitas Volume Bersih: Minimal 400 - 500 liter\nLebar Unit: Minimal 650 - 750 mm\nKedalaman Unit: Minimal 600 – 700 mm\nTinggi Unit: Minimal 1.950 – 1.980 mm\nKonsumsi Daya Listrik: Minimal 400 – 650 watt\nTegangan Listrik: Minimal 220 – 240 volt\nRentang Temperatur: Minimal 0 – 10 derajat celcius\nKemampuan Suhu: Sampai 38 derajat celcius\nJumlah Rak: Minimal 6 buah",
+    "variants": {}
+  },
+  "GRY_FREEZER": {
+    "nama_form": "Chest Freezer Kapasitas sekitar 680 Liter",
+    "default": "Tipe: Curved Sliding Glass Door\nKapasitas Volume Bersih: Minimal 600 - 700 liter\nLebar Unit: Minimal 1.600 – 1.750 mm\nKedalaman Unit: Minimal 650 – 800 mm\nTinggi Unit: Minimal 800 – 950 mm\nKonsumsi Daya Listrik: Minimal 230 - 420 watt\nTegangan Listrik: Minimal 220 – 240 volt\nRentang Temperatur: Minimal -15 – -26 derajat celcius",
+    "variants": {}
+  },
+  "GRY_KIPAS_PLAFON": {
+    "nama_form": "Kipas Plafon",
+    "default": "Tipe: High Volume Low Speed (HVLS) Ceiling Fan\nDiameter Kipas: 4,2 – 7,3 meter\nTegangan Operasi: 380 VAC, 3 Phase, 50 Hz\nDaya Motor: 750 – 1.500 Watt\nJumlah Blade: Minimal 5–6 blade\nMaterial Blade: Aluminium alloy aerospace grade atau setara\nKecepatan Putaran: Maksimal 45 – 90 RPM\nVolume Udara: Minimal 10.000 – 15.000 m³/menit\nTingkat Kebisingan: Maksimal 45 dB\nSistem Penggerak: Gear motor atau PMSM Direct Drive\nSistem Kontrol: Variable Speed Controller (VFD/Inverter)\nProteksi Motor: Overload, overcurrent, overvoltage, dan phase protection\nMaterial Struktur: Baja karbon atau aluminium dengan lapisan anti korosi\nKetinggian Pemasangan: Minimal 6 meter dari lantai\nTemperatur Operasi: 0°C – 50°C\nTingkat Perlindungan Motor: Minimal IP54\nSertifikasi: SNI, ISO, CE atau setara",
+    "variants": {}
+  },
+  "GRY_EXHAUST_FAN": {
+    "nama_form": "Exhaust Fan",
+    "default": "Tipe: Square Ceiling Air Diffuser 4-Way\nFungsi: Distribusi udara suplai (supply air) dan/atau udara balik (return air)\nMaterial: Aluminium ekstrusi (extruded aluminum) atau setara\nPola Aliran Udara: 4 arah (4-way air distribution)\nFinishing: Powder coating warna putih RAL 9010 atau RAL 9016\nUkuran Nominal: 150 x 150 mm sampai 600 x 600 mm\nKetebalan Material: Minimal 0,8–1,2 mm\nSistem Pemasangan: Ceiling mounted pada plafon gypsum atau plafon modular\nCore: Fixed core atau removable core\nAksesori: Opposed Blade Damper (OBD) dan Plenum Box (opsional)\nKecepatan Udara: 1,5 – 4,5 m/s\nKapasitas Aliran Udara: 150 – 2.500 m³/jam (tergantung ukuran)\nPressure Drop: Maksimal 30 Pa\nTingkat Kebisingan: Maksimal 40 dBA\nTemperatur Operasi: 0°C – 60°C",
+    "variants": {}
+  },
+  "OPS_LOKER_LEMARI": {
+    "nama_form": "Loker Lemari",
+    "default": "Tipe: Loker Besi 9 - 12 Pintu\nKonfigurasi: 3 Kolom X 3 Baris atau 3 Kolom X 4 Baris\nMaterial Utama: Plat baja canai dingin (Cold Rolled Steel Sheet)\nKetebalan Plat Body: Minimal 0,6 – 0,8 mm\nKetebalan Plat Pintu: Minimal 0,7 – 1,0 mm\nDimensi Keseluruhan (P x L x T): ± (900 – 1150) x (450 – 500) x (1800 – 1830) mm\nJumlah Kompartemen: 9 - 12 ruang penyimpanan individual\nDimensi Kompartemen (P x L x T): ± (250 – 300) x (400 – 450) x (380 – 430) mm\nSistem Penguncian: Cam Lock dengan 2 kunci untuk setiap pintu\nHandle: Handle ergonomis terintegrasi\nVentilasi: Tersedia ventilasi udara pada setiap kompartemen",
+    "variants": {}
+  },
+  "KMN_ALARM_TOKO": {
+    "nama_form": "Alarm Toko",
+    "default": "Panel Kontrol Alarm: Kapasitas minimal 8 zona alarm, mendukung pembagian area (partition)\nKeypad Operasional: LCD/LED keypad dengan indikator status zona dan alarm\nSensor Gerak (PIR): Jangkauan deteksi minimal 10 m dengan sudut deteksi minimal 90°\nSensor Pintu/Jendela: Magnetic contact tipe NC (Normally Closed)\nTombol Darurat: Panic button dengan reset key/manual reset\nSirene Indoor: Tingkat suara minimal 100 dB pada jarak 1 meter\nSirene Outdoor: Tingkat suara minimal 110 dB pada jarak 1 meter, dilengkapi lampu strobo\nBaterai Cadangan: Rechargeable sealed lead acid battery 12 VDC, kapasitas minimal 7 Ah\nCatu Daya: Input 220-240 VAC, 50 Hz\nKomunikasi Sistem: Mendukung koneksi perangkat deteksi kabel (wired)\nKapasitas Pengguna: Minimal 30 kode pengguna yang dapat dikontrak\nSuhu Operasional: 0°C hingga +45°C\nKelembaban Operasional: 10%-95% RH non-condensing",
+    "variants": {}
+  },
+  "KMN_MESIN_ABSENSI": {
+    "nama_form": "Mesin Absensi",
+    "default": "Metode Identifikasi: Pengenalan wajah (Face Recognition), sidik jari (Fingerprint), PIN, dan kartu RFID (opsional)\nKapasitas Wajah: Minimal 500 template wajah\nKapasitas Sidik Jari: Minimal 500 template sidik jari\nKapasitas Pengguna: Minimal 500 pengguna\nKapasitas Transaksi: Minimal 100.000 data transaksi\nLayar: TFT LCD berwarna minimal 2,4 inci\nKecepatan Verifikasi: < 1 detik\nFAR (False Acceptance Rate): < 0,0001%\nFRR (False Rejection Rate): < 1%\nKomunikasi: TCP/IP, USB Host, USB Client\nMedia Transfer Data: Flashdisk USB dan jaringan LAN\nFungsi Absensi: Check In, Check Out, Break Out, Break In\nCatu Daya: DC 12V +10%\nBackup Data: Data tetap tersimpan saat listrik padam\nBahasa Operasi: Mendukung Bahasa Indonesia dan Inggris\nSuhu Operasional: 0°C sampai 45°C\nKelembaban Operasional: 20%-80% RH non-condensing",
+    "variants": {}
+  }
+}

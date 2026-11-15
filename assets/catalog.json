@@ -1,0 +1,542 @@
+[
+  {
+    "id": "kendaraan",
+    "name": "Kendaraan",
+    "items": [
+      {
+        "order": 1,
+        "name": "Truk 6 ban bak kayu/besi",
+        "target": "1",
+        "item_id": "KDN_TRUK"
+      },
+      {
+        "order": 2,
+        "name": "Kendaraan pick-up 4WD (4x4)",
+        "target": "1",
+        "item_id": "KDN_PICKUP"
+      },
+      {
+        "order": 3,
+        "name": "Motor bak roda 3",
+        "target": "2",
+        "item_id": "KDN_MOTOR_RODA3"
+      }
+    ]
+  },
+  {
+    "id": "1_set_mesin_kasir",
+    "name": "1 Set Mesin Kasir",
+    "items": [
+      {
+        "order": 4,
+        "name": "POS (Point of Sales)",
+        "target": "1",
+        "item_id": "OPS_KASIR_POS"
+      },
+      {
+        "order": 5,
+        "name": "Cash Drawer",
+        "target": "1",
+        "item_id": "OPS_KASIR_CASH_DRAWER"
+      },
+      {
+        "order": 6,
+        "name": "Gun Scanner",
+        "target": "1",
+        "item_id": "OPS_KASIR_GUN_SCANNER"
+      },
+      {
+        "order": 7,
+        "name": "Finger Print",
+        "target": "1",
+        "item_id": "OPS_KASIR_FINGERPRINT"
+      },
+      {
+        "order": 8,
+        "name": "Printer Receipt",
+        "target": "1",
+        "item_id": "OPS_KASIR_PRINTER_RECEIPT"
+      },
+      {
+        "order": 9,
+        "name": "Printer Barcode",
+        "target": "1",
+        "item_id": "OPS_KASIR_PRINTER_BARCODE"
+      },
+      {
+        "order": 10,
+        "name": "EDC",
+        "target": "1",
+        "item_id": "OPS_KASIR_EDC"
+      },
+      {
+        "order": 11,
+        "name": "WiFi Router/Modem",
+        "target": "1",
+        "item_id": "OPS_KASIR_ROUTER"
+      },
+      {
+        "order": 12,
+        "name": "UPS",
+        "target": "1",
+        "item_id": "OPS_KASIR_UPS"
+      }
+    ]
+  },
+  {
+    "id": "1_set_cctv",
+    "name": "1 Set CCTV",
+    "items": [
+      {
+        "order": 13,
+        "name": "IP Camera Indoor",
+        "target": "4",
+        "item_id": "KMN_CCTV_IPCAM_INDOOR"
+      },
+      {
+        "order": 14,
+        "name": "IP Camera Outdoor",
+        "target": "4",
+        "item_id": "KMN_CCTV_IPCAM_OUTDOOR"
+      },
+      {
+        "order": 15,
+        "name": "NVR 8 Channel",
+        "target": "1",
+        "item_id": "KMN_CCTV_NVR"
+      },
+      {
+        "order": 16,
+        "name": "POE Switch 10 Port",
+        "target": "1",
+        "item_id": "KMN_CCTV_POE_SWITCH"
+      },
+      {
+        "order": 17,
+        "name": "HDD Minimal 2 TB",
+        "target": "1",
+        "item_id": "KMN_CCTV_HDD"
+      },
+      {
+        "order": 18,
+        "name": "Kabel LAN Cat 6",
+        "target": "1",
+        "item_id": "KMN_CCTV_KABEL_LAN"
+      },
+      {
+        "order": 19,
+        "name": "LED Display 19 Inch",
+        "target": "1",
+        "item_id": "KMN_CCTV_LED_DISPLAY"
+      },
+      {
+        "order": 20,
+        "name": "Wallmount Rack Server 4U",
+        "target": "1",
+        "item_id": "KMN_CCTV_RACK"
+      },
+      {
+        "order": 21,
+        "name": "Connector RJ45 Belden Cat 5",
+        "target": "20",
+        "item_id": "KMN_CCTV_RJ45"
+      },
+      {
+        "order": 22,
+        "name": "Stop Kontak 6 Slot",
+        "target": "1",
+        "item_id": "KMN_CCTV_STOP_KONTAK"
+      },
+      {
+        "order": 23,
+        "name": "Pipa PVC 20 mm",
+        "target": "35",
+        "item_id": "KMN_CCTV_PIPA_PVC"
+      },
+      {
+        "order": 24,
+        "name": "Sok Pipa",
+        "target": "35",
+        "item_id": "KMN_CCTV_SOK_PIPA"
+      },
+      {
+        "order": 25,
+        "name": "Kabel Duct 40 x 25 mm (1 batang = 3 m)",
+        "target": "1",
+        "item_id": "KMN_CCTV_KABEL_DUCT"
+      },
+      {
+        "order": 26,
+        "name": "Kabel Ties 20 cm",
+        "target": "1",
+        "item_id": "KMN_CCTV_KABEL_TIES"
+      },
+      {
+        "order": 27,
+        "name": "Isolasi Listrik",
+        "target": "2",
+        "item_id": "KMN_CCTV_ISOLASI"
+      },
+      {
+        "order": 28,
+        "name": "Kabel HDMI 1,5 m",
+        "target": "1",
+        "item_id": "KMN_CCTV_KABEL_HDMI"
+      },
+      {
+        "order": 29,
+        "name": "Double Tape 3M",
+        "target": "1",
+        "item_id": "KMN_CCTV_DOUBLE_TAPE"
+      }
+    ]
+  },
+  {
+    "id": "konektivitas_software",
+    "name": "Konektivitas & Software",
+    "items": [
+      {
+        "order": 30,
+        "name": "Internet",
+        "target": "1",
+        "item_id": "GRY_INTERNET"
+      },
+      {
+        "order": 31,
+        "name": "Perangkat Lunak Kasir (Software KDKMP)",
+        "target": "1",
+        "item_id": "GRY_SOFTWARE_KASIR"
+      }
+    ]
+  },
+  {
+    "id": "air_conditioner",
+    "name": "Air Conditioner",
+    "items": [
+      {
+        "order": 32,
+        "name": "AC 2 PK",
+        "target": "3",
+        "item_id": "GRY_AC_2PK"
+      },
+      {
+        "order": 33,
+        "name": "AC 1 PK",
+        "target": "2",
+        "item_id": "GRY_AC_1PK"
+      }
+    ]
+  },
+  {
+    "id": "furniture_gerai",
+    "name": "Furniture Gerai",
+    "items": [
+      {
+        "order": 34,
+        "name": "Meja Koperasi Simpan Pinjam",
+        "target": "1",
+        "item_id": "GRY_MEJA_KOPERASI"
+      },
+      {
+        "order": 35,
+        "name": "Laci Dorong",
+        "target": "1",
+        "item_id": "GRY_LACI_DORONG"
+      },
+      {
+        "order": 36,
+        "name": "Rak Etalase",
+        "target": "1",
+        "item_id": "GRY_RAK_ETALASE"
+      },
+      {
+        "order": 37,
+        "name": "Meja Kasir",
+        "target": "1",
+        "item_id": "GRY_MEJA_KASIR"
+      }
+    ]
+  },
+  {
+    "id": "apotek",
+    "name": "Apotek",
+    "items": [
+      {
+        "order": 38,
+        "name": "Lemari Display Apotek",
+        "target": "2",
+        "item_id": "GRY_LEMARI_DISPLAY_APOTEK"
+      }
+    ]
+  },
+  {
+    "id": "perlengkapan_klinik",
+    "name": "Perlengkapan Klinik",
+    "items": [
+      {
+        "order": 39,
+        "name": "Meja Administrasi Klinik",
+        "target": "1",
+        "item_id": "GRY_KLINIK_MEJA_ADMINISTRASI"
+      },
+      {
+        "order": 40,
+        "name": "Laci Dorong",
+        "target": "1",
+        "item_id": "GRY_KLINIK_LACI_DORONG"
+      },
+      {
+        "order": 41,
+        "name": "Kursi (10 Unit)",
+        "target": "10",
+        "item_id": "GRY_KLINIK_KURSI"
+      },
+      {
+        "order": 42,
+        "name": "Meja Dokter",
+        "target": "1",
+        "item_id": "GRY_KLINIK_MEJA_DOKTER"
+      },
+      {
+        "order": 43,
+        "name": "Tempat Tidur Periksa Pasien",
+        "target": "1",
+        "item_id": "GRY_KLINIK_TEMPAT_TIDUR"
+      }
+    ]
+  },
+  {
+    "id": "perlengkapan_rak_gerai",
+    "name": "Perlengkapan Rak Gerai",
+    "items": [
+      {
+        "order": 44,
+        "name": "Rak Display Single/Wall/Pinggir 90x40x180 cm",
+        "target": "11",
+        "item_id": "GRY_RAK_WALL"
+      },
+      {
+        "order": 45,
+        "name": "Rak Display Double/Island/Tengah 90x80x150 cm",
+        "target": "24",
+        "item_id": "GRY_RAK_ISLAND"
+      },
+      {
+        "order": 46,
+        "name": "Rak Display End 80x40x150 cm",
+        "target": "6",
+        "item_id": "GRY_RAK_END"
+      }
+    ]
+  },
+  {
+    "id": "apar",
+    "name": "APAR",
+    "items": [
+      {
+        "order": 47,
+        "name": "APAR 3 kg",
+        "target": "2",
+        "item_id": "KMN_APAR_3KG"
+      },
+      {
+        "order": 48,
+        "name": "APAR 9 kg",
+        "target": "2",
+        "item_id": "KMN_APAR_9KG"
+      }
+    ]
+  },
+  {
+    "id": "keranjang_belanja",
+    "name": "Keranjang Belanja",
+    "items": [
+      {
+        "order": 49,
+        "name": "Keranjang Tarik",
+        "target": "20",
+        "item_id": "GRY_KERANJANG_TARIK"
+      },
+      {
+        "order": 50,
+        "name": "Keranjang Jinjing",
+        "target": "20",
+        "item_id": "GRY_KERANJANG_JINJING"
+      }
+    ]
+  },
+  {
+    "id": "seragam_kdkmp",
+    "name": "Seragam KDKMP",
+    "items": [
+      {
+        "order": 51,
+        "name": "Kemeja",
+        "target": "18",
+        "item_id": "OPS_SERAGAM_KEMEJA"
+      },
+      {
+        "order": 52,
+        "name": "Kaos Polo",
+        "target": "36",
+        "item_id": "OPS_SERAGAM_KAOS_POLO"
+      }
+    ]
+  },
+  {
+    "id": "perlengkapan_lain",
+    "name": "Perlengkapan Lain",
+    "items": [
+      {
+        "order": 53,
+        "name": "Pallet",
+        "target": "25",
+        "item_id": "OPS_PALLET"
+      },
+      {
+        "order": 54,
+        "name": "Printer",
+        "target": "1",
+        "item_id": "OPS_PRINTER"
+      },
+      {
+        "order": 55,
+        "name": "Brankas",
+        "target": "1",
+        "item_id": "KMN_BRANKAS"
+      },
+      {
+        "order": 56,
+        "name": "Genset",
+        "target": "1",
+        "item_id": "KMN_GENSET"
+      }
+    ]
+  },
+  {
+    "id": "atk",
+    "name": "ATK",
+    "items": [
+      {
+        "order": 57,
+        "name": "Stempel",
+        "target": "1",
+        "item_id": "OPS_STEMPEL"
+      },
+      {
+        "order": 58,
+        "name": "Struk",
+        "target": "20",
+        "item_id": "OPS_STRUK"
+      },
+      {
+        "order": 59,
+        "name": "Thermal Label",
+        "target": "5",
+        "item_id": "OPS_THERMAL_LABEL"
+      }
+    ]
+  },
+  {
+    "id": "alat_kebersihan",
+    "name": "Alat Kebersihan",
+    "items": [
+      {
+        "order": 60,
+        "name": "Tempat Sampah Besar",
+        "target": "2",
+        "item_id": "OPS_TEMPAT_SAMPAH"
+      },
+      {
+        "order": 61,
+        "name": "Alat Pel dan Ember",
+        "target": "2",
+        "item_id": "OPS_ALAT_PEL"
+      },
+      {
+        "order": 62,
+        "name": "Sapu Lantai dan Pengki",
+        "target": "2",
+        "item_id": "OPS_SAPU_PENGKI"
+      }
+    ]
+  },
+  {
+    "id": "komputer",
+    "name": "Komputer",
+    "items": [
+      {
+        "order": 63,
+        "name": "PC All in One Intel, RAM 8 GB, SSD 512 GB",
+        "target": "1",
+        "item_id": "GRY_KOMPUTER_AIO"
+      }
+    ]
+  },
+  {
+    "id": "beverages_frozen_foods",
+    "name": "Beverages & Frozen Foods",
+    "items": [
+      {
+        "order": 64,
+        "name": "Chiller 1 Pintu (2 Unit)",
+        "target": "2",
+        "item_id": "GRY_CHILLER"
+      },
+      {
+        "order": 65,
+        "name": "Chest Freezer Kapasitas sekitar 680 Liter",
+        "target": "2",
+        "item_id": "GRY_FREEZER"
+      }
+    ]
+  },
+  {
+    "id": "ventilasi",
+    "name": "Ventilasi",
+    "items": [
+      {
+        "order": 66,
+        "name": "Kipas Plafon",
+        "target": "1",
+        "item_id": "GRY_KIPAS_PLAFON"
+      },
+      {
+        "order": 67,
+        "name": "Exhaust Fan",
+        "target": "2",
+        "item_id": "GRY_EXHAUST_FAN"
+      }
+    ]
+  },
+  {
+    "id": "perlengkapan_lain",
+    "name": "Perlengkapan Lain",
+    "items": [
+      {
+        "order": 68,
+        "name": "Loker Lemari",
+        "target": "1",
+        "item_id": "OPS_LOKER_LEMARI"
+      }
+    ]
+  },
+  {
+    "id": "keamanan_kehadiran",
+    "name": "Keamanan & Kehadiran",
+    "items": [
+      {
+        "order": 69,
+        "name": "Alarm Toko",
+        "target": "1",
+        "item_id": "KMN_ALARM_TOKO"
+      },
+      {
+        "order": 70,
+        "name": "Mesin Absensi",
+        "target": "1",
+        "item_id": "KMN_MESIN_ABSENSI"
+      }
+    ]
+  }
+]

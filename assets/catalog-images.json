@@ -1,0 +1,528 @@
+{
+  "1": {
+    "name": "Truk 6 ban bak kayu/besi",
+    "files": [
+      "kdn_truk_foton_aumark_s.jpg",
+      "kdn_truk_foton_aumark_s_belakang.jpg",
+      "kdn_truk_foton_aumark_s_samping.jpg",
+      "kdn_truk_hino_136_hd.jpg",
+      "kdn_truk_hino_136_hdl.jpg",
+      "kdn_truk_hino_136_hdl_belakang.jpg",
+      "kdn_truk_hino_136_hdl_samping.jpg",
+      "kdn_truk_hino_136_hd_belakang.jpg",
+      "kdn_truk_hino_136_hd_samping.jpg",
+      "kdn_truk_isuzu_nmr_hd_5_8.jpg",
+      "kdn_truk_isuzu_nmr_hd_5_8_belakang.jpg",
+      "kdn_truk_isuzu_nmr_hd_5_8_samping.jpg",
+      "kdn_truk_isuzu_nmr_hd_6_5.jpg",
+      "kdn_truk_isuzu_nmr_hd_6_5_belakang.jpg",
+      "kdn_truk_isuzu_nmr_hd_6_5_samping.jpg",
+      "kdn_truk_mitsubishi_fuso_fe_74_hds_n_bak_kayu.jpg",
+      "kdn_truk_mitsubishi_fuso_fe_74_hds_n_bak_kayu_belakang.jpg",
+      "kdn_truk_mitsubishi_fuso_fe_74_hds_n_bak_kayu_samping.jpg",
+      "kdn_truk_mitsubishi_fuso_fe_74_hd_n_bak_besi.jpg",
+      "kdn_truk_mitsubishi_fuso_fe_74_hd_n_bak_besi_belakang.jpg",
+      "kdn_truk_mitsubishi_fuso_fe_74_hd_n_bak_besi_samping.jpg",
+      "kdn_truk_mitsubishi_fuso_fe_74_n_bak_besi.jpg",
+      "kdn_truk_mitsubishi_fuso_fe_74_n_bak_besi_belakang.jpg",
+      "kdn_truk_mitsubishi_fuso_fe_74_n_bak_besi_samping.jpg",
+      "kdn_truk_tata_ultra_t_7.jpg",
+      "kdn_truk_tata_ultra_t_7_belakang.jpg",
+      "kdn_truk_tata_ultra_t_7_samping.jpg"
+    ]
+  },
+  "2": {
+    "name": "Kendaraan pick-up 4WD (4x4)",
+    "files": [
+      "kdn_pickup_mahindra_scorpio_single_cab_s6.jpg",
+      "kdn_pickup_mahindra_scorpio_single_cab_s6_belakang.jpg",
+      "kdn_pickup_mahindra_scorpio_single_cab_s6_samping.jpg",
+      "kdn_pickup_tata_yodha_single_cabin.jpg",
+      "kdn_pickup_tata_yodha_single_cabin_belakang.jpg",
+      "kdn_pickup_tata_yodha_single_cabin_samping.jpg"
+    ]
+  },
+  "3": {
+    "name": "Motor bak roda 3",
+    "files": [
+      "kdn_motor_roda3_appktm_mesin_200cc.jpg",
+      "kdn_motor_roda3_appktm_mesin_200cc_belakang.jpg",
+      "kdn_motor_roda3_appktm_mesin_200cc_samping.jpg",
+      "kdn_motor_roda3_gajah_merah_putih_200.jpg",
+      "kdn_motor_roda3_gajah_merah_putih_200_belakang.jpg",
+      "kdn_motor_roda3_gajah_merah_putih_200_samping.jpg",
+      "kdn_motor_roda3_htm_200_dp_2_0.jpg",
+      "kdn_motor_roda3_htm_200_dp_2_0_belakang.jpg",
+      "kdn_motor_roda3_htm_200_dp_2_0_samping.jpg",
+      "kdn_motor_roda3_kaisar_triseda_k_200cc.jpg",
+      "kdn_motor_roda3_kaisar_triseda_k_200cc_belakang.jpg",
+      "kdn_motor_roda3_kaisar_triseda_k_200cc_samping.jpg",
+      "kdn_motor_roda3_new_karya_200_ln.jpg",
+      "kdn_motor_roda3_new_karya_200_ln_belakang.jpg",
+      "kdn_motor_roda3_new_karya_200_ln_samping.jpg",
+      "kdn_motor_roda3_power_ace_max_pro.jpg",
+      "kdn_motor_roda3_power_ace_max_pro_belakang.jpg",
+      "kdn_motor_roda3_power_ace_max_pro_samping.jpg",
+      "kdn_motor_roda3_tvs_armado.jpg",
+      "kdn_motor_roda3_tvs_armado_belakang.jpg",
+      "kdn_motor_roda3_tvs_armado_samping.jpg"
+    ]
+  },
+  "4": {
+    "name": "POS (Point of Sales)",
+    "files": [
+      "ops_kasir_pos.jpg",
+      "ops_kasir_pos_referensi.jpg"
+    ]
+  },
+  "5": {
+    "name": "Cash Drawer",
+    "files": [
+      "ops_kasir_cash_drawer.jpg",
+      "ops_kasir_cash_drawer_referensi.jpg"
+    ]
+  },
+  "6": {
+    "name": "Gun Scanner",
+    "files": [
+      "ops_kasir_gun_scanner.jpg",
+      "ops_kasir_gun_scanner_referensi.jpg"
+    ]
+  },
+  "7": {
+    "name": "Finger Print",
+    "files": [
+      "ops_kasir_fingerprint.jpg",
+      "ops_kasir_fingerprint_referensi.jpg"
+    ]
+  },
+  "8": {
+    "name": "Printer Receipt",
+    "files": [
+      "ops_kasir_printer_receipt.jpg",
+      "ops_kasir_printer_receipt_referensi.jpg"
+    ]
+  },
+  "9": {
+    "name": "Printer Barcode",
+    "files": [
+      "ops_kasir_printer_barcode.jpg",
+      "ops_kasir_printer_barcode_referensi.jpg"
+    ]
+  },
+  "10": {
+    "name": "EDC",
+    "files": [
+      "ops_kasir_edc.jpg",
+      "ops_kasir_edc_referensi.jpg"
+    ]
+  },
+  "11": {
+    "name": "WiFi Router/Modem",
+    "files": [
+      "ops_kasir_router.jpg",
+      "ops_kasir_router_referensi.jpg"
+    ]
+  },
+  "12": {
+    "name": "UPS",
+    "files": [
+      "ops_kasir_ups.jpg",
+      "ops_kasir_ups_referensi.jpg"
+    ]
+  },
+  "13": {
+    "name": "IP Camera Indoor",
+    "files": [
+      "kmn_cctv_ipcam_indoor.jpg"
+    ]
+  },
+  "14": {
+    "name": "IP Camera Outdoor",
+    "files": [
+      "kmn_cctv_ipcam_outdoor.jpg"
+    ]
+  },
+  "15": {
+    "name": "NVR 8 Channel",
+    "files": [
+      "kmn_cctv_nvr.jpg"
+    ]
+  },
+  "16": {
+    "name": "POE Switch 10 Port",
+    "files": [
+      "kmn_cctv_poe_switch.jpg"
+    ]
+  },
+  "17": {
+    "name": "HDD Minimal 2 TB",
+    "files": [
+      "kmn_cctv_hdd.jpg"
+    ]
+  },
+  "18": {
+    "name": "Kabel LAN Cat 6",
+    "files": [
+      "kmn_cctv_kabel_lan.jpg"
+    ]
+  },
+  "19": {
+    "name": "LED Display 19 Inch",
+    "files": [
+      "kmn_cctv_led_display.jpg"
+    ]
+  },
+  "20": {
+    "name": "Wallmount Rack Server 4U",
+    "files": [
+      "kmn_cctv_rack.jpg"
+    ]
+  },
+  "21": {
+    "name": "Connector RJ45 Belden Cat 5",
+    "files": [
+      "kmn_cctv_rj45.jpg"
+    ]
+  },
+  "22": {
+    "name": "Stop Kontak 6 Slot",
+    "files": [
+      "kmn_cctv_stop_kontak.jpg"
+    ]
+  },
+  "23": {
+    "name": "Pipa PVC 20 mm",
+    "files": [
+      "kmn_cctv_pipa_pvc.jpg"
+    ]
+  },
+  "24": {
+    "name": "Sok Pipa",
+    "files": [
+      "kmn_cctv_sok_pipa.jpg"
+    ]
+  },
+  "25": {
+    "name": "Kabel Duct 40 x 25 mm (1 batang = 3 m)",
+    "files": [
+      "kmn_cctv_kabel_duct.jpg"
+    ]
+  },
+  "26": {
+    "name": "Kabel Ties 20 cm",
+    "files": [
+      "kmn_cctv_kabel_ties.jpg"
+    ]
+  },
+  "27": {
+    "name": "Isolasi Listrik",
+    "files": [
+      "kmn_cctv_isolasi.jpg"
+    ]
+  },
+  "28": {
+    "name": "Kabel HDMI 1,5 m",
+    "files": [
+      "kmn_cctv_kabel_hdmi.jpg"
+    ]
+  },
+  "29": {
+    "name": "Double Tape 3M",
+    "files": [
+      "kmn_cctv_double_tape.jpg"
+    ]
+  },
+  "30": {
+    "name": "Internet",
+    "files": [
+      "gry_internet_lte_4g.jpg",
+      "gry_internet_lte_4g_patch_cord_1_meter.jpg",
+      "gry_internet_lte_4g_switch_8_port_poe.jpg",
+      "gry_internet_satelit.jpg",
+      "gry_internet_satelit_access_point.jpg",
+      "gry_internet_satelit_kabel_lan.jpg",
+      "gry_internet_satelit_mikrotik.jpg",
+      "gry_internet_satelit_wall_mounting_bracket.jpg"
+    ]
+  },
+  "31": {
+    "name": "Perangkat Lunak Kasir (Software KDKMP)",
+    "files": [
+      "gry_software_kasir.jpg",
+      "gry_software_kasir_2.jpg"
+    ]
+  },
+  "32": {
+    "name": "AC 2 PK",
+    "files": [
+      "gry_ac_2pk_best.jpg",
+      "gry_ac_2pk_flife.jpg",
+      "gry_ac_2pk_gree.jpg",
+      "gry_ac_2pk_midea.jpg"
+    ]
+  },
+  "33": {
+    "name": "AC 1 PK",
+    "files": [
+      "gry_ac_1pk_best.jpg",
+      "gry_ac_1pk_flife.jpg",
+      "gry_ac_1pk_gree.jpg",
+      "gry_ac_1pk_midea.jpg"
+    ]
+  },
+  "34": {
+    "name": "Meja Koperasi Simpan Pinjam",
+    "files": [
+      "gry_meja_koperasi.jpg",
+      "gry_meja_koperasi_referensi_belakang.jpg",
+      "gry_meja_koperasi_referensi_depan.jpg"
+    ]
+  },
+  "35": {
+    "name": "Laci Dorong",
+    "files": [
+      "gry_laci_dorong.jpg",
+      "gry_laci_dorong_referensi.jpg"
+    ]
+  },
+  "36": {
+    "name": "Rak Etalase",
+    "files": [
+      "gry_rak_etalase.jpg",
+      "gry_rak_etalase_referensi.jpg"
+    ]
+  },
+  "37": {
+    "name": "Meja Kasir",
+    "files": [
+      "gry_meja_kasir.jpg",
+      "gry_meja_kasir_referensi_belakang.jpg",
+      "gry_meja_kasir_referensi_depan.jpg"
+    ]
+  },
+  "38": {
+    "name": "Lemari Display Apotek",
+    "files": [
+      "gry_lemari_display_apotek.jpg",
+      "gry_lemari_display_apotek_referensi.jpg"
+    ]
+  },
+  "39": {
+    "name": "Meja Administrasi Klinik",
+    "files": [
+      "gry_klinik_meja_administrasi.jpg",
+      "gry_klinik_meja_administrasi_referensi_depan.jpg",
+      "gry_klinik_meja_administrasi_referensi_samping.jpg"
+    ]
+  },
+  "40": {
+    "name": "Laci Dorong",
+    "files": [
+      "gry_klinik_laci_dorong.jpg"
+    ]
+  },
+  "41": {
+    "name": "Kursi (10 Unit)",
+    "files": [
+      "gry_klinik_kursi.jpg",
+      "gry_klinik_kursi_referensi.jpg"
+    ]
+  },
+  "42": {
+    "name": "Meja Dokter",
+    "files": [
+      "gry_klinik_meja_dokter.jpg",
+      "gry_klinik_meja_dokter_referensi_depan.jpg",
+      "gry_klinik_meja_dokter_referensi_samping.jpg"
+    ]
+  },
+  "43": {
+    "name": "Tempat Tidur Periksa Pasien",
+    "files": [
+      "gry_klinik_tempat_tidur.jpg",
+      "gry_klinik_tempat_tidur_referensi.jpg"
+    ]
+  },
+  "44": {
+    "name": "Rak Display Single/Wall/Pinggir 90x40x180 cm",
+    "files": [
+      "gry_rak_wall.jpg"
+    ]
+  },
+  "45": {
+    "name": "Rak Display Double/Island/Tengah 90x80x150 cm",
+    "files": [
+      "gry_rak_island.jpg",
+      "gry_rak_island_dalam_gerai.jpg",
+      "gry_rak_island_shorter_rack.jpg"
+    ]
+  },
+  "46": {
+    "name": "Rak Display End 80x40x150 cm",
+    "files": [
+      "gry_rak_end.jpg"
+    ]
+  },
+  "47": {
+    "name": "APAR 3 kg",
+    "files": [
+      "kmn_apar_3kg_indoraya_fire.jpg",
+      "kmn_apar_3kg_qtrex.jpg",
+      "kmn_apar_3kg_saige.jpg"
+    ]
+  },
+  "48": {
+    "name": "APAR 9 kg",
+    "files": [
+      "kmn_apar_9kg_indoraya_fire.jpg",
+      "kmn_apar_9kg_qtrex.jpg",
+      "kmn_apar_9kg_saige.jpg"
+    ]
+  },
+  "49": {
+    "name": "Keranjang Tarik",
+    "files": [
+      "gry_keranjang_tarik_tipe_a.jpg",
+      "gry_keranjang_tarik_tipe_b.jpg"
+    ]
+  },
+  "50": {
+    "name": "Keranjang Jinjing",
+    "files": [
+      "gry_keranjang_jinjing_tipe_a.jpg",
+      "gry_keranjang_jinjing_tipe_b.jpg"
+    ]
+  },
+  "51": {
+    "name": "Kemeja",
+    "files": [
+      "ops_seragam_kemeja.jpg"
+    ]
+  },
+  "52": {
+    "name": "Kaos Polo",
+    "files": [
+      "ops_seragam_kaos_polo.jpg"
+    ]
+  },
+  "53": {
+    "name": "Pallet",
+    "files": [
+      "ops_pallet_pallet_biru.jpg",
+      "ops_pallet_pallet_hitam.jpg"
+    ]
+  },
+  "54": {
+    "name": "Printer",
+    "files": [
+      "ops_printer.jpg",
+      "ops_printer_samping.jpg"
+    ]
+  },
+  "55": {
+    "name": "Brankas",
+    "files": [
+      "kmn_brankas_black_42.jpg",
+      "kmn_brankas_et571.jpg"
+    ]
+  },
+  "56": {
+    "name": "Genset",
+    "files": [
+      "kmn_genset.jpg"
+    ]
+  },
+  "57": {
+    "name": "Stempel",
+    "files": [
+      "ops_stempel.jpg",
+      "ops_stempel_2.jpg"
+    ]
+  },
+  "58": {
+    "name": "Struk",
+    "files": [
+      "ops_struk.jpg"
+    ]
+  },
+  "59": {
+    "name": "Thermal Label",
+    "files": [
+      "ops_thermal_label.jpg"
+    ]
+  },
+  "60": {
+    "name": "Tempat Sampah Besar",
+    "files": [
+      "ops_tempat_sampah_3_pilah_triple_bin.jpg",
+      "ops_tempat_sampah_3_pilah_triple_bin_belakang.jpg",
+      "ops_tempat_sampah_wheelie_bin.jpg",
+      "ops_tempat_sampah_wheelie_bin_belakang.jpg",
+      "ops_tempat_sampah_wheelie_bin_samping.jpg"
+    ]
+  },
+  "61": {
+    "name": "Alat Pel dan Ember",
+    "files": [
+      "ops_alat_pel.jpg"
+    ]
+  },
+  "62": {
+    "name": "Sapu Lantai dan Pengki",
+    "files": [
+      "ops_sapu_pengki.jpg"
+    ]
+  },
+  "63": {
+    "name": "PC All in One Intel, RAM 8 GB, SSD 512 GB",
+    "files": [
+      "gry_komputer_aio.jpg"
+    ]
+  },
+  "64": {
+    "name": "Chiller 1 Pintu (2 Unit)",
+    "files": [
+      "gry_chiller.jpg"
+    ]
+  },
+  "65": {
+    "name": "Chest Freezer Kapasitas sekitar 680 Liter",
+    "files": [
+      "gry_freezer.jpg"
+    ]
+  },
+  "66": {
+    "name": "Kipas Plafon",
+    "files": [
+      "gry_kipas_plafon.jpg"
+    ]
+  },
+  "67": {
+    "name": "Exhaust Fan",
+    "files": [
+      "gry_exhaust_fan.jpg"
+    ]
+  },
+  "68": {
+    "name": "Loker Lemari",
+    "files": [
+      "ops_loker_lemari.jpg"
+    ]
+  },
+  "69": {
+    "name": "Alarm Toko",
+    "files": [
+      "kmn_alarm_toko.jpg"
+    ]
+  },
+  "70": {
+    "name": "Mesin Absensi",
+    "files": [
+      "kmn_mesin_absensi.jpg",
+      "gry_papan_nama.jpg",
+      "kmn_cctv_baut_plafond.jpg",
+      "kmn_cctv_baut_roofing.jpg"
+    ]
+  }
+}

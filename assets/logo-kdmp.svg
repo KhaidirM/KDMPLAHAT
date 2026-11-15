@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Logo Koperasi Desa Merah Putih">
+ <rect width="256" height="256" rx="56" fill="#fff"/>
+ <path d="M42 120 127 65l86 55v82H42z" fill="#fff" stroke="#be2637" stroke-width="12" stroke-linejoin="round"/>
+ <path d="M30 124 127 60l98 64" fill="none" stroke="#be2637" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M114 196v-49h27v49M61 133h22v21H61zm37 0h22v21H98zm44 0h22v21h-22z" fill="#e5e9eb"/>
+ <path d="M166 46V24m0 0 31 8-31 8" fill="#be2637" stroke="#be2637" stroke-width="5" stroke-linejoin="round"/>
+ <text x="128" y="227" text-anchor="middle" fill="#be2637" font-family="Arial,sans-serif" font-size="17" font-weight="800" letter-spacing="2">KOPDES MERAH PUTIH</text>
+</svg>
